@@ -11,6 +11,8 @@ Foi gerado um dataset com **120 pacientes fictícios** contendo variáveis relev
 
 📂 [Acesse o CSV aqui](https://drive.google.com/drive/folders/1VSFq5e2YQxjvuB5MYGnulymHIon4ICaQ?usp=sharing)
 
+O arquvio `.csv` se encontra também na pasta [`datasets/`](./datasets/):
+
 ### 🔑 Variáveis incluídas
 - **Idade (anos)** → risco cardiovascular aumenta com a idade.  
 - **Sexo (M/F)** → há diferenças de incidência entre homens e mulheres.  

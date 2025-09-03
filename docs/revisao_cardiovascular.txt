@@ -1,0 +1,919 @@
+Doenças cardiovasculares e seus fatores de risco: desafios para seu controle na Atenção Primária à Saúde
+O que potencializa a efetividade das estratégias da Atenção Primária à Saúde para o controle das doenças cardiovasculares e de seus fatores de risco?
+
+
+18 de dezembro de 2023
+
+
+
+
+
+
+Preparada para:
+Departamento de Promoção da Saúde (DEPROS/SAPS/MS), Brasília, DF
+
+Preparada por:
+Fiocruz Brasília, Brasília, DF
+Instituto de Saúde de São Paulo, São Paulo, SP Biblioteca da Faculdade de Ciências Médicas da Unicamp, Campinas, SP
+Elaboração:
+Emanuelly Camargo Tafarello Jessica De Lucca Da Silva
+Letícia Aparecida Lopes Bezerra da Silva Rosana Evangelista Poderoso
+Tereza Setsuko Toma
+
+Coordenação: Jorge Otávio Maia Barreto
+
+
+Sumário
+    1. Contexto	3
+    2. Pergunta de pesquisa	5
+    3. Métodos	6
+        3.1 Critérios de inclusão e exclusão	6
+        3.2 Bases de dados e estratégias de busca	6
+        3.3 Atalhos para a revisão rápida	6
+3.5 Extração e análise dos dados	6
+    4. Evidências	6
+        4.1 Qualidade metodológica das revisões sistemáticas	8
+    5. Facilitadores e barreiras relacionados a doenças cardiovasculares e seus fatores de risco	9
+        5.1 Facilitadores e barreiras relacionados aos usuários	12
+        5.2 Facilitadores e barreiras relacionados aos profissionais de saúde	20
+        5.3 Facilitadores e barreiras relacionados aos serviços e sistemas de saúde	24
+    6. A Iniciativa Global HEARTS	30
+        6.1 HEARTS nas Américas	31
+        6.2 Facilitadores e barreiras na implementação do HEARTS em países da América	32
+        6.3 Próximos passos na implementação do HEARTS nas Américas	34
+    7. Considerações finais	35
+    8. Referências	37
+Apêndices	42
+Apêndice 1. Termos e resultados das estratégias de busca	42
+Apêndice 2. Estudos excluídos após leitura do texto completo, com justificativa	45
+Apêndice 3. Características gerais dos estudos incluídos.	49
+
+
+
+Resumo executivo
+Contexto
+As doenças cardiovasculares (DCV) são um grupo de distúrbios do coração e dos vasos sanguíneos. As doenças crônicas não transmissíveis, incluindo as DCV, foram a maior causa de mortes no Brasil em 2019, com 54,7% de registros de óbitos. O Plano de ações estratégicas 2021-2030, do Ministério da Saúde, estabeleceu ações para lidar com as DCV na Atenção Primária à Saúde.
+Pergunta
+O que potencializa a efetividade das estratégias da Atenção Primária à Saúde para o controle das doenças cardiovasculares e de seus fatores de risco?
+Métodos
+As buscas de estudos foram realizadas em agosto de 2023, nas bases de dados da Biblioteca Virtual em Saúde, PubMed, Embase, Health Systems Evidence e Cumulative Index to Nursing and Allied Health Literature. As estratégias de busca foram desenvolvidas com base na combinação de palavras-chave, estruturada a partir do acrônimo PICo. Uma busca específica sobre a iniciativa HEARTS foi realizada no site da Organização Pan-Americana da Saúde (OPAS). Apenas a seleção de estudos foi realizada em duplicidade, de modo cego. A avaliação metodológica das revisões sistemáticas (RS) incluídas foi realizada por meio da ferramenta AMSTAR 2.
+Resultados
+De 1.477 registros recuperados nas bases de dados, 21 estudos foram incluídos, sendo 17 RS, duas revisões de revisões, uma revisão de escopo e uma revisão não sistemática. Todas as RS foram classificadas como de confiança criticamente baixa.
+Os resultados são apresentados em categorias de facilitadores e barreiras segundo os níveis de usuários, profissionais de saúde, serviços e sistema de saúde. Além disso, são apresentados resultados relativos à iniciativa HEARTS, da Organização Mundial da Saúde (OMS).
+Facilitadores e barreiras relacionados aos usuários
+Os resultados de 16 revisões abordam facilitadores relacionados a características pessoais e de saúde, percepção de saúde e atitudes, características do tratamento, determinantes sociais, cuidados de enfermagem, cuidados farmacêuticos, educação e comunicação, uso de tecnologias digitais. Os resultados sobre barreiras se relacionam às características pessoais e de saúde, disponibilidade de tempo, características do tratamento, educação e percepção de saúde, determinantes sociais, dificuldades com tecnologias digitais e dificuldades com a autogestão.
+Facilitadores e barreiras relacionados aos profissionais de saúde
+
+
+Os resultados de 11 revisões referem-se aos seguintes facilitadores: atuação de enfermeiros, farmacêuticos e médicos, processos colaborativos e transferência de tarefas, implementação de modelo de cuidados crônicos e de suporte à decisão clínica. E os resultados de barreiras se relacionam com as competências da equipe, programas de gerenciamento por farmacêuticos, tecnologias digitais e suporte à decisão clínica.
+Facilitadores e barreiras relacionados aos serviços e sistemas em saúde
+Os resultados de 10 revisões abordam os seguintes facilitadores: serviços de farmácia comunitária, atuação em equipe, comunicação, implementação e sustentabilidade de novos programas e aspectos econômicos. E os resultados de barreiras se relacionam com dificuldades estruturais e organizacionais, educação e apoio ao usuário, implementação de modelos de cuidados crônicos, de sistemas de suporte à decisão e sistemas de informação e transferência de tarefas.
+Facilitadores e barreiras para a implementação do pacote HEARTS
+O pacote técnico HEARTS, da OMS, é direcionado para a Atenção Primária à Saúde com o objetivo de reforçar a gestão clínica das DCV e de seus fatores de risco, envolvendo ações de farmacêuticos comunitários, enfermeiros e trabalhadores de saúde não profissionais. Nas Américas, essa iniciativa tem sido liderada pela OPAS.
+Um estudo aponta como facilitadores para a implementação da HEARTS nas Américas: o apoio político do nível administrativo mais alto, a parceria com sociedades científicas e profissionais, e o envolvimento das partes interessadas do sistema de saúde. Por outro lado, várias barreiras precisam ser superadas: a vasta gama de sistemas de informação sanitária nos países, a falha na atualização das listas nacionais de medicamentos, a dificuldade em supervisionar a validação de monitores automatizados de pressão arterial, a resistência à mudança, a dificuldade de compartilhamento de tarefas, a elevada rotatividade de pessoal, e a baixa capacidade técnica na área da economia da saúde e das análises econômicas.
+Considerações finais
+Esta revisão rápida abordou barreiras e facilitadores relacionados aos usuários, profissionais de saúde e sistemas de saúde para diversas DCV e seus fatores de risco. Os resultados foram apontados para uma diversidade de países, sendo muitos de alta renda. Cabe destacar que apenas uma revisão apresentou resultados do Brasil. De qualquer modo, muitos dos aspectos identificados são aplicáveis a diversos contextos de sistemas de saúde. É importante acompanhar também os esforços de implementação da iniciativa HEARTS nas Américas.
+
+
+    1. Contexto
+As doenças cardiovasculares (DCV) são um grupo de distúrbios do coração e dos vasos sanguíneos que incluem: doença coronariana, doenças cerebrovasculares, doenças arteriais periféricas, doença cardíaca reumática, cardiopatia congênita, trombose venosa profunda e embolia pulmonar. As doenças crônicas não transmissíveis (DCNT), dentre elas as DCV, foram a maior causa de mortes no Brasil em 2019, com 54,7% de registros de óbitos. Fatores de vida dos indivíduos se relacionam às causas de DCV, como o acesso a bens e serviços, oportunidades de escolhas favoráveis à saúde, trabalho, lazer, cultura, garantia de direitos etc. As DCV atingem principalmente populações vulneráveis, de baixa renda e escolaridade e idosos1,2,3.
+O Plano de ações estratégicas 2011-2022 para o enfrentamento das DCNT no Brasil identificou que em homens as DCV foram responsáveis pelas maiores taxas de óbito no período analisado, embora com decréscimo na magnitude. Nas mulheres, as DCV foram responsáveis pelas maiores taxas de óbito até 20132.
+Dentre os fatores de risco para DCV destacam-se: tabagismo, consumo de álcool, alimentação não saudável e inatividade física, cujo controle e redução apresentam um efeito significativo na redução de óbitos prematuros e de incapacidades decorrentes das DCNT e DCV. Esses fatores podem ser modificados pela mudança de comportamento e por ações governamentais2,3.
+O Plano de ações estratégicas 2021-2030 estabeleceu algumas ações para DCV na Atenção Primária à Saúde, com os seguintes destaques: atualizar e implementar as diretrizes clínicas do Ministério da Saúde, com base em evidências e custo-efetividade para linhas de cuidado das principais doenças crônicas; promover articulações intersetoriais para a implantação nacional de iniciativas articuladas com os serviços públicos de saúde, segurança pública, educação, meio ambiente e assistência social, mercado e o terceiro setor para aumento da prática de atividade física, consumo de alimentos saudáveis, redução do tabagismo e consumo de álcool na população; fortalecer projetos terapêuticos para pessoas com DCV abrangendo iniciativas na APS sobre atividade física, alimentação saudável, cessação do uso de produtos fumígenos derivados ou não de tabaco e autocuidado; fomentar a implantação da meditação pelas equipes de APS visando ao controle da pressão arterial no grupo de hipertensos; aumentar a cobertura na APS de serviços de identificação, manejo e acompanhamento da pessoa com hipertensão arterial sistêmica (HAS), dislipidemia e com dificuldade na acuidade visual; aumentar a cobertura na APS de serviços de detecção, acompanhamento e controle de HAS e dislipidemia em adultos assintomáticos; aumentar na APS a cobertura de serviços de rastreamento e identificação de risco cardiovascular global visando à realização de escore para estratificação de risco cardiovascular, dentre outras2.
+
+
+Desta maneira, é importante conhecer potenciais barreiras e facilitadores para o controle das DCV na APS.
+    2. Pergunta de pesquisa
+O que potencializa a efetividade das estratégias da Atenção Primária à Saúde para o controle das doenças cardiovasculares e de seus fatores de risco?
+Quadro 1. Acrônimo PICo de acordo com a pergunta de interesse.
+P	População de interesse	Equipes de APS e gestão que atuam no cuidado de adultos e idosos (escolaridade, renda, sexo, gênero, raça/etnia) e populações específicas (povos e comunidades tradicionais, pessoas com deficiência, população em situação de rua e população LGBTQIAP+)
+I	Fenômeno de interesse	Identificação dos principais fatores que potencializam a efetividade das estratégias de cuidado e controle de doenças cardiovasculares e de seus fatores de risco (como hipertensão, diabetes, obesidade, tabagismo, álcool, inatividade física, alimentação inadequada, sono etc.).
+Desfechos primários: identificação dos fatores que potencializam o cuidado e acompanhamento das pessoas com doenças crônicas não transmissíveis e seus fatores de risco, conforme a estratificação de risco, considerando o perfil da população assistida na APS e os determinantes sociais de saúde (modelos de atenção, linhas de cuidado, protocolos clínicos, disponibilidade e adequação de equipamentos, salas, insumos, recurso financeiro, prontuário eletrônico, sistema de informação em saúde, registro adequado, gestão de listas, cuidado compartilhado multiprofissional e/ou entre os níveis de atenção, autonomia da equipe, composição das equipes, ações de promoção da saúde, cobertura da APS, presença de um gerente da UBS, gestor de caso, incorporação de projeto terapêutico singular, articulação intra e intersetorial, participação social, controle social ativo, planejamento participativo, disponibilidade de equipamentos sociais, existência de políticas e programas convergentes com o tema).
+Desfechos secundários: identificação de outros fatores facilitadores do acesso aos serviços, processo de trabalho das equipes, políticas de Estado e de governo, macroeconomia, condições socioeconômicas, geográficas.
+Co	Contexto	Atenção Primária à Saúde
+S	Study design	Estudos primários e secundários
+
+
+    3. Métodos
+Um protocolo de pesquisa foi elaborado previamente e submetido ao Departamento de Promoção da Saúde (DEPROS/SAPS/MS)4.
+        3.1 Critérios de inclusão e exclusão
+Os critérios de inclusão foram estudos primários e secundários publicados em inglês, espanhol e português, que relatam possíveis barreiras e facilitadores para o controle de DCV e de seus fatores de risco na APS. Não houve restrição em relação ao ano de publicação, sendo excluídos estudos que não atenderam a esses critérios.
+        3.2 Bases de dados e estratégias de busca
+Foram realizadas buscas, em 29 e 30/08/2023, nas bases indexadas BVS - Biblioteca Virtual em Saúde (exceto Medline), PubMed, Embase (exceto Medline e PubMed), HSE - Health Systems Evidence e CINAHL - Cumulative Index to Nursing and Allied Health Literature. As estratégias de busca foram desenvolvidas com base na combinação de palavras-chave, estruturada a partir do acrônimo PICo, usando os termos MeSH no PubMed (e seus Entry Terms), DeCS na BVS (e seus sinônimos), Emtree na Embase, adaptando-os para as demais bases (Apêndice 1). Adicionalmente, foram realizadas buscas para documentos relativos à iniciativa HEARTS no site da Organização Pan-Americana da Saúde (https://www.paho.org/pt/hearts-nas-americas).
+        3.3 Atalhos para a revisão rápida
+Por se tratar de uma revisão rápida produzida em 42 dias, foram adotados atalhos, de modo que apenas o processo de seleção dos estudos foi realizado em duplicidade, de forma independente5, utilizando-se o gerenciador de referências Rayyan QCRI6. As divergências foram resolvidas por consenso ou por outro revisor. A avaliação metodológica das revisões sistemáticas (RS) incluídas foi realizada por meio da ferramenta AMSTAR 2. As avaliações foram feitas por uma revisora e checadas por outra. Não foi realizada avaliação da qualidade metodológica de outros tipos de revisão.
+3.5 Extração e análise dos dados
+Foram extraídos em planilha eletrônica dados relacionados à autoria, ano, objetivo do estudo, país e delineamento do estudo, características dos participantes, fatores que potencializam a efetividade das estratégias de controle de DCV e seus fatores de risco na APS, conclusões, conflitos de interesses e financiamento. As extrações foram realizadas por quatro revisoras, de modo complementar.
+    4. Evidências
+As buscas resultaram em 1.477 registros recuperados nas bases de dados. Após a exclusão de duplicatas, 1.222 registros foram triados por meio da leitura de títulos e resumos. De 94 estudos elegíveis para leitura completa, 21 foram incluídos7-18,20-28. A Figura 1 ilustra o
+
+
+processo de seleção. Os estudos elegíveis excluídos e os motivos de exclusão são apresentados no Apêndice 2.
+
+Figura 1. Fluxograma do processo de seleção dos estudos.
+Fonte: Elaboração própria, adaptada da recomendação PRISMA 202029. Tradução livre dos autores.
+Como recurso adicional a ser consultado, a Fiocruz Brasília publicou em 2021 seis revisões rápidas que abordam estratégias de adesão ao tratamento de longo prazo para pessoas adultas com hipertensão arterial30 e diabetes mellitus tipo 231, barreiras e facilitadores para adesão ao tratamento em adultos com hipertensão arterial ou diabetes mellitus tipo 232, benefícios relacionados ao tratamento de hipertensão arterial sistêmica33, satisfação de usuários com diabetes tipo 2 e hipertensão arterial34, estratégias para redução ou cessação do uso de derivados de tabaco35.
+
+
+        4.1 Qualidade metodológica das revisões sistemáticas
+Nesta revisão rápida foram incluídas 17 RS7-11,15-18,20-26,28, duas revisões de revisões
+(overview)13,14, uma revisão de escopo27, e uma revisão não sistemática12.
+A Figura 2 apresenta a avaliação da qualidade metodológica das 17 RS incluídas. A confiança global nos resultados foi classificada como criticamente baixa em todos os estudos. Analisando as fraquezas metodológicas críticas nos critérios estabelecidos pelo AMSTAR 2, mais da metade das revisões não apresentou um protocolo prévio (11/17); quanto a atender os critérios nas estratégias de busca, todos RS foram avaliadas como “parcialmente sim”, exceto uma; apenas duas RS apresentaram uma lista dos estudos excluídos com justificativa para exclusão. A maioria utilizou uma técnica adequada para avaliar os riscos de viés dos estudos incluídos (12/17). Apenas 4 RS consideraram o risco de viés de cada estudo ao interpretar ou discutir os resultados. Das quatro RS que realizaram metanálise, duas investigaram adequadamente o viés de publicação.
+
+
+
+Figura 2. Qualidade metodológica das revisões sistemáticas.
+Fonte: Elaboração própria. Nota: B - baixa; CB - criticamente baixa.
+
+    5. Facilitadores e barreiras relacionados a doenças cardiovasculares e seus fatores de risco
+No Quadro 2, é apresentada uma síntese dos resultados de 21 estudos incluídos, segundo as categorias de barreiras e facilitadores identificados em nível de usuários, profissionais de saúde, serviços e sistema de saúde.
+As condições de saúde analisadas incluem doenças cardiovasculares (DCV), doença arterial coronariana (DAC), doença pulmonar obstrutiva crônica (DPOC), insuficiência cardíaca (IC), infarto do miocárdio (IM), e fatores de risco cardiovascular (RCV) como hipertensão arterial, diabetes e doença metabólica.
+Mais detalhes das informações extraídas - objetivos, países, conclusões, conflitos de interesse e financiamento dos estudos - estão disponíveis no Apêndice 3.
+Quadro 2. Características gerais dos estudos incluídos.
+Autor (ano)	Desenho do estudo	Condição de saúde	Participantes
+Afiani et al., 20237	Revisão sistemática que incluiu 12 estudos, cujos delineamentos não foram informados	Hipertensão	Idosos
+AlAufi et al., 20228	Revisão sistemática que incluiu 108 estudos, cujos delineamentos não foram informados	Doenças cardiovasculares (DCV) e Diabetes Mellitus Tipo 2 (DM2)	Pessoas com essas condições de saúde
+Chen et al., 20229	Revisão sistemática qualitativa que incluiu 33 estudos, cujos delineamentos não foram informados	Incluiu principalmente fatores de risco cardiovascular, diabetes, hipertensão e vários medicamentos	Pacientes com essas condições de saúde
+Chen et al., 201928	Revisão sistemática que incluiu 12 ECR	Diabetes	3.030 participantes, com
+idade média de 51,9 a 68 anos para o grupo de intervenção e de 51 a 67 para o grupo controle
+Davy et al., 201510	Revisão sistemática que incluiu 38 estudos: 4 ensaios clínicos randomizados (ECR), 3 estudos de coorte, 2 estudos transversais, 11 estudos qualitativos e 17 estudos de caso ou	A maioria se concentrou na prestação de cuidados para diabetes, além de doenças cardiovasculares, depressão e doença pulmonar obstrutiva crônica. Outros estudos	Pacientes com uma ou mais das principais doenças crônicas
+
+
+Autor (ano)	Desenho do estudo	Condição de saúde	Participantes
+	séries de casos	se referiam à prestação de cuidados a pessoas com doenças crônicas	
+de Waard et al., 201811	Revisão sistemática que incluiu 39 estudos, cujos delineamentos não foram informados	Doenças cardiometabólicas	Quase todos os estudos incluíram pessoas entre 30 e 75 anos; um estudo se concentrou em idosos entre 76 e 82 anos de idade
+George, McNamara, Stewart, 201112	Revisão não sistemática, sem informação quanto ao número de estudos incluídos	DCV, hipertensão	Pessoas com idades variadas, nas seguintes condições: com DCV ou de alto risco vascular; com hipertensão; tomando medicação cardiovascular, para pressão arterial ou colesterol; com dislipidemia; de zona rural em risco de DCV
+Heller et al., 201913	Revisão de revisões, que incluiu 15 revisões sistemáticas e 4 estudos com resultados de interesse	DCV, hipertensão e diabetes	Pessoas com essas condições de saúde
+Leslie, McCowan, Pell, 201914	Revisão de revisões que incluiu 45 revisões sistemáticas	DCV	Crianças, adultos e idosos
+Martínez-González et al., 201515	Revisão sistemática que incluiu 12 ECR	Doença coronariana, doença pulmonar obstrutiva crônica, doença metabólica, doença digestiva, doença de pele. doença infecciosa e queixas diversas	Pessoas com essas condições de saúde
+Mohebbi, Sabouri, Tol, 202116	Revisão sistemática que incluiu 35 estudos, cujos delineamentos não foram informados	Insuficiência cardíaca, doença coronariana, hipertensão, cirurgia de revascularização miocárdica, infartos do miocárdio, uso de marca- passo, doença valvar cardíaca e reabilitação cardíaca	Participantes com idade média de 37 a 65 anos
+Ogedegbe et al., 201417	Revisão sistemática que	Hipertensão e DM2	Pessoas com essas
+
+
+Autor (ano)	Desenho do estudo	Condição de saúde	Participantes
+	incluiu 3 ECR		condições de saúde
+Ogungbe et al., 202218	Revisão sistemática e metanálise que incluiu 43 ECR	Hipertensão	Pessoas com essa condição de saúde
+Peters et al, 202320	Revisão sistemática que incluiu 5 estudos, cujos delineamentos não foram informados	Doença arterial coronariana, insuficiência cardíaca terminal e fibrilação atrial	Pessoas com essas condições de saúde
+Ru, Hong, Hegney, 201125	Revisão sistemática que incluiu 6 estudos, cujos delineamentos não foram informados	Condições crônicas	Mulheres idosas
+Sabater-Hernández et al., 201621	Revisão sistemática que incluiu 16 estudos, cujos delineamentos não foram informados	DCV	Pessoas com essa condição de saúde
+Santschi et al., 201122	Revisão sistemática que incluiu 30 ECR	DCV	11.765 participantes com
+idades entre 52 e 77 anos;
+54% de participantes mulheres
+Schneider et al., 201823	Revisão sistemática que incluiu 24 estudos transversais e 7 estudos de coorte	Hipertensão	27.441 participantes
+Singh, LeBlanc, King-Shier, 202124	Revisão sistemática que incluiu 34 estudos: 20 ECR, 10 desenhos pré- pós, 4 estudos piloto	Hipertensão, diabetes e síndrome metabólica	As amostras variaram de 12 a 4.770 participantes. Foram incluídos negros, hispânicos/latinos, filipinos, coreanos, além de pessoas nativas da Índia, China, Irã, Coreia do Sul, Paquistão e Chile
+Wändell et al., 201826	Revisão sistemática que incluiu 28 estudos, cujos delineamentos não foram informados	Doenças cardiometabólicas	Pessoas entre 18-74 anos
+Whitelaw et al., 202127	Revisão de escopo que incluiu 29 estudos, cujos delineamentos não foram informados	DCV	Pessoas com essa condição de saúde
+Fonte: Elaboração própria. Nota: DCV - Doenças cardiovasculares; DM2- Diabetes Mellitus Tipo 2; ECR - ensaio clínico randomizado.
+
+
+        5.1 Facilitadores e barreiras relacionados aos usuários
+Dezesseis revisões7,8,9,10,11,12,14,16,20,22,23,24,25,26,27,28 apresentaram resultados sobre facilitadores e barreiras relacionados aos usuários. As condições de saúde referidas nesses estudos foram hipertensão, doenças cardiometabólicas, insuficiência cardíaca, doenças cardiovasculares (DCV), diabetes, fatores de risco cardiovascular (RCV), doença pulmonar obstrutiva crônica (DPOC) e doenças crônicas.
+Os seguintes facilitadores foram identificados nos estudos (Quadro 3):
+            ▪ Características pessoais e de saúde: mais idade, menos responsabilidade familiar, apoio social, flexibilidade de horários, realizar exames sem necessidade de consulta, fácil acesso a serviços.
+            ▪ Percepção de saúde e atitudes: atitude positiva com relação à própria saúde, noção de responsabilidade e autogestão, alfabetização em saúde, função cognitiva, capacidade de adaptação à condição de saúde.
+            ▪ Características do tratamento: a adesão ao tratamento pode ser mais fácil com alguns medicamentos, entre os quais os combinados.
+            ▪ Determinantes sociais: maior renda, apoio social, apoio à autogestão, religião.
+            ▪ Cuidados de enfermagem: teletreinamento, acompanhamento por meio de telefonemas, visita domiciliar, reabilitação cardiovascular para controle da doença e adesão a tratamento.
+            ▪ Cuidados farmacêuticos: triagem, educação, aconselhamento e apoio, otimização do uso de medicamentos, aceitabilidade e satisfação.
+            ▪ Educação e comunicação: pacote de materiais educacionais, informações sobre triagem e autogestão, acompanhamento por educador em saúde, atividades em grupo, abordagem centrada no usuário, educação culturalmente sensível.
+            ▪ Uso de tecnologias digitais: aceitação da capacitação on-line, melhor comunicação com os médicos, vontade de aprender, senso de segurança.
+Quadro 3. Facilitadores relacionados aos usuários conforme condições de saúde.
+Facilitador	Condição de saúde
+Características pessoais e de saúde
+Idade: Houve melhora de 9% na adesão ao tratamento, com o aumento da idade de 40 para 53 anos.14	Hipertensão
+Questões familiares: Ser casado ou coabitar, não ter responsabilidade por crianças pequenas ou dependentes e forte apoio social foram relatados como facilitadores para participar da triagem de risco cardiovascular.11	Doenças cardiometabólicas
+Facilidade de acesso: Estar aposentado, trabalhar com horários flexíveis, exames de	Doenças
+
+
+Facilitador	Condição de saúde
+saúde sem necessidade de agendamento e de fácil acesso a serviços foram identificados como facilitadores.11	cardiometabólicas
+Percepção de saúde e atitudes
+Atitudes em relação à saúde: Os facilitadores para participar da triagem de risco cardiovascular foram: sentir-se responsável pela própria saúde, achar a saúde importante ou acreditar ser capaz de influenciar o próprio estado de saúde, suscetibilidade e gravidade da doença.11	Doenças cardiometabólicas
+Atitude quanto à prevenção: Os facilitadores mais relatados foram atitudes positivas em relação à importância da prevenção.11	Doenças cardiometabólicas
+Diversidade de fatores individuais: Os fatores positivamente relacionados à adesão medicamentosa incluíram autogestão, alfabetização em saúde sobre hipertensão e agente anti-hipertensivo, função cognitiva (memória), crença e expectativa de vida subjetiva, menor preocupação com eventos adversos dos anti-hipertensivos, competências de literacia em saúde.7	Hipertensão
+Reformulação de atividades: As mulheres idosas com insuficiência cardíaca crônica tiveram de adaptar as suas expectativas e dar prioridade a atividades menos exigentes ou mais agradáveis, ou adotar maneiras novas e menos exigentes de energia para realizar tarefas diárias.25	Insuficiência cardíaca
+Autoconhecimento e autogestão: As mulheres idosas com condições crônicas desenvolvem e aplicam os seus próprios conhecimentos e práticas de autogestão por meio da experiência pessoal.25	Insuficiência cardíaca
+Características do tratamento
+Tipo de medicamento: A chance de adesão a bloqueadores do receptor da angiotensina-II (BRA) foi 30 a 33% maior do que outras classes de medicamentos prescritos.14	Doenças cardiovasculares
+Medicamentos combinados: Os medicamentos combinados foram associados a maior adesão em comparação com os medicamentos equivalentes administrados separadamente, variando de 12 a 29%.14	Doenças cardiovasculares
+Determinantes sociais
+Renda: A alta renda foi associada a uma melhor adesão ao tratamento, variando de 11 a 26%.14	Doenças cardiovasculares
+Apoio social: Uma intervenção de apoio social de familiares e amigos demonstrou uma melhor adesão à medicação em pacientes diabéticos.24	Diabetes
+Apoio social à autogestão: As mulheres procuram apoio informativo, instrumental e emocional nas suas redes sociais, que incluem suas famílias, amigos próximos, prestadores de cuidados de saúde e animais.25	Insuficiência cardíaca
+Religião: As mulheres idosas recorrem à religião como recurso para proteger o seu bem-estar emocional contra os desafios de viver com a doença.25	Insuficiência cardíaca
+
+
+Facilitador	Condição de saúde
+Cuidados de enfermagem
+Teletreinamento e controle da HbA1c: O efeito da intervenção para pacientes diabéticos, com intervalos inferiores a quatro semanas, foi estatisticamente
+significativo no controle da HbA1c (MD agrupada = −1,23; IC 95% −1,63 a −8; I2 = 0%, p < 0,001), defendendo assim que as intervenções devem ser realizadas com uma frequência que envolva intervalos inferiores a 4 semanas.28	Diabetes
+Teletreinamento e pontuação de AF: Mostrou um efeito estatisticamente significativo para a pontuação de atividade física (d = 1,15; IC 95% 0,72 a 1,59; I2 = 0%).28	Diabetes
+Teletreinamento e redução da PAS: Observou-se redução significativa na PAS (MD
+agrupada= −2,2; IC 95% −3,95 a −0,19; I2 = 0%, p < 0,01).28	Hipertensão
+Acompanhamento por telefone e adesão à medicação: O acompanhamento telefônico conduzido por enfermeiras e as listas de verificação do diário alimentar melhoraram a adesão à medicação.24	Diabetes
+Visita domiciliar e adesão à medicação: Pacientes hipertensos sul-coreanos demonstraram adesão significativa à medicação em resposta a um programa de visita domiciliar liderado por enfermeiras.24	Hipertensão
+Programa de reabilitação cardíaca e adesão à medicação: Houve uma melhor adesão à medicação com o programa de reabilitação cardíaca liderado por enfermeiros.24	Diabetes e hipertensão
+Cuidados farmacêuticos
+Redução da PA: A estimativa agrupada de 19 ECR mostrou uma redução significativa na PA sistólica (PAD -8,1 mm Hg; IC 95% -10,2 a -5,9; P <0,001) e PA diastólica (PAD
+−3,8 mm Hg; IC 95% −5,3 a −2,3; P < 0,001) a favor de cuidados farmacêuticos em
+comparação com cuidados habituais. 22	Doenças cardiovasculares
+Redução do colesterol: A estimativa combinada mostrou uma redução significativa no nível de colesterol total (PAD -17,4 mg/L; IC 95% -25,5 a -9,2; P < 0,001) e colesterol de baixa densidade (PAD -13,4 mg/ L; IC 95% −23,0 a −3,8; P = 0,006) a favor de cuidados farmacêuticos em comparação com cuidados habituais.22	Doenças cardiovasculares
+Redução do tabagismo: A estimativa combinada mostrou uma redução estatisticamente significativa no tabagismo a favor de cuidados farmacêuticos em comparação com os cuidados habituais (RR 0,77; IC 95% 0,67 a 0,89; P = 0,001).22	Doenças cardiovasculares
+Aceitabilidade da triagem de risco: O processo foi bem aceito, considerando a triagem como valendo a pena (71%) e classificando a consulta como boa (30%) ou excelente (68%). A farmácia comunitária foi considerada local apropriado para a triagem de risco cardiovascular (97%) e que poderia ser um serviço de rotina oferecido por farmacêuticos comunitários (90,5%).12	Fatores de RCV
+Aconselhamento e benefícios comportamentais: O conselho fornecido durante a consulta na farmácia, ou a triagem em si, pareceu ter benefícios comportamentais, com mudanças no estilo de vida (55%), aumento do exercício (31,8%) e da perda de	Fatores de RCV
+
+
+Facilitador	Condição de saúde
+peso (16,4%), melhora da dieta (29,8%), deixar de fumar (3,6%).12	
+Aconselhamento e adesão à medicação: Intervenções de aconselhamento e educação de pacientes com diabetes, mediadas por farmacêuticos, melhoraram a adesão à medicação.24	Diabetes
+Apoio e adesão à medicação: Apoio prestado pelo farmacêutico, abrangendo a educação, definição de metas clínicas, discussão de atividades de autocuidado e automonitoramento melhoraram a adesão à medicação.24	Diabetes
+Aconselhamento, educação e adesão à medicação: Educação individualizada, atividades educativas em grupo e aconselhamento telefônico melhoraram a adesão à medicação.24	Diabetes
+Aconselhamento, educação e adesão à medicação: Intervenções de aconselhamento e educação mediadas por farmacêuticos melhoraram a adesão à medicação em hipertensos residentes na comunidade.24	Hipertensão
+Aceitabilidade dos cuidados farmacêuticos: O papel mais aceito para os farmacêuticos comunitários foi a otimização do uso de medicamentos. Muitos entrevistados acreditavam que os farmacêuticos são capazes de fornecer triagem ou testes para hipertensão, diabetes e colesterol. A maioria também acreditava que os farmacêuticos eram competentes para fornecer conselhos sobre mudanças no estilo de vida (perda de peso, tabagismo, ingestão de álcool etc.) e informações sobre DCV e seu manejo.12	Doenças cardiovasculares
+Satisfação: As farmácias eram vistas como um ambiente relaxante, e os farmacêuticos eram acessíveis. de peso, tabagismo, ingestão de álcool etc.) e informações sobre DCV e seu manejo.12	Doenças cardiovasculares
+Educação e comunicação
+Pacote de materiais educacionais: Houve uma melhor adesão à medicação com o pacote de materiais educacionais que incluíam conselhos sobre intervenções específicas no estilo de vida, adesão à medicação e prescrição de medicamentos de alta eficácia. de peso, tabagismo, ingestão de álcool etc.) e informações sobre DCV e seu manejo.24	Diabetes e hipertensão
+Informações sobre triagem de risco cardiovascular: Informações claras sobre a triagem, convite do médico de família ou do centro de saúde, telefonema adicional após o convite, ou o uso de trabalhadores de extensão, foram identificados como facilitadores. de peso, tabagismo, ingestão de álcool etc.) e informações sobre DCV e seu manejo.11	Doenças cardiometabólicas
+Informações para a autogestão: Os serviços educacionais que forneceram informações claras e concisas e os grupos de apoio foram maneiras de incentivar os pacientes a assumirem um grau de responsabilidade por seus próprios cuidados. Os grupos de apoio eram mutuamente motivadores e os participantes monitoravam sua condição mais de perto e respondiam de forma mais positiva a atividades de promoção da saúde, como exercícios físicos. de peso, tabagismo, ingestão de álcool etc.) e informações sobre DCV e seu manejo.10	Fatores de RCV, diabetes, hipertensão
+
+
+Facilitador	Condição de saúde
+Acompanhamento por educador de saúde: Intervenção telefônica conduzida por educador de saúde melhorou a adesão à medicação em pacientes diabéticos negros e hispânicos. de peso, tabagismo, ingestão de álcool etc.) e informações sobre DCV e seu manejo.24	Diabetes
+Intervenções educacionais: Intervenções que incluíram indução de afeto positivo e autoafirmação mostraram melhora na adesão à medicação em pacientes negros hipertensos.24	Hipertensão
+Programa educacional culturalmente sensível: Um programa centrado nas mudanças de estilo de vida e na adesão à medicação, lideradas por enfermeiros, levou a melhorias na adesão em pacientes negros hipertensos.24	Hipertensão
+Programa de sensibilização e educação: Intervenções em ambientes comunitários (centros de saúde, organizações religiosas, e serviços de emergência) resultaram em maior adesão à medicação para hipertensão e hipolipemiante em pacientes com síndrome metabólica.24	Hipertensão e síndrome metabólica
+Informação sobre condições crônicas: A conscientização e a informação sobre condições crônicas podem resultar em melhorias no acompanhamento, autoestima, comportamentos de cuidado e autogestão. Uma intervenção educacional multimídia pode ser eficaz na redução dos eventos adversos.16	IC, DAC, hipertensão, IM, doença valvular e outras
+Informações claras e grupos de apoio: Fornecer informações compreensíveis sobre sua saúde, bem como grupos de apoio que os motivaram a alcançar seus próprios objetivos, encorajou os pacientes a assumirem um maior interesse e responsabilidade por sua saúde.10	DCV, DPOC, doenças crônicas
+Abordagem centrada no usuário: Foi considerada muito mais eficaz para apoiar os pacientes a assumir a responsabilidade por sua própria saúde. Planos de autogestão individualizados com tempo dedicado para falar com os clientes, a fim de garantir que eles tenham todas as informações relevantes e a capacidade de implementar o plano são necessárias.10	DCV, DPOC, doenças crônicas
+Uso de tecnologias digitais
+Benefícios percebidos: As respostas positivas incluíram pacientes que se sentiram capacitados como resultado das informações on-line prontamente disponíveis, bem como uma maior compreensão de como as escolhas de estilo de vida impactam sua saúde.10	Diabetes
+Benefícios percebidos: Entre os benefícios incluem-se melhor conexão e comunicação com os médicos; utilidade percebida; empoderamento; sessões de educação e treinamento; apoio da família e/ou cuidadores; vontade de aprender; melhor senso de segurança.27	Doenças cardiovasculares
+Fonte: Elaboração própria. Nota: AF - Atividade Física; BRA - bloqueadores do receptor da angiotensina-II; d - diferença; DAC
+- doença arterial coronariana; DCV - doença cardiovascular; PAD - pressão arterial diastólica; DPOC - doença pulmonar obstrutiva crônica; ECR - ensaio clínico randomizado; HbA1c - hemoglobina glicada; I2 - heterogeneidade; IC - insuficiência cardíaca; IC 95% - intervalo de confiança de 95%, IM - insuficiência mitral; MD - mediana; mg/L - miligrama por litro; mmHG
+- milímetro de mercúrio; p - probabilidade; PA - pressão arterial; PAS - pressão arterial sistólica; RCV - risco cardiovascular; RR - risco relativo; % - porcentagem.
+
+
+As seguintes barreiras foram identificadas nos estudos (Quadro 4):
+    • Características pessoais e de saúde: depressão, ansiedade, estresse, uso de álcool, ser mulher, capacidade cognitiva, nível de educação, imprevisibilidade dos sintomas, falta de apoio familiar.
+    • Disponibilidade de tempo: responsabilidade com trabalho ou família, horários de consulta incompatíveis.
+    • Características do tratamento: dificuldade de acesso e preparo de alimentos saudáveis, adesão tende a diminuir ao longo do tratamento, com maior número de doses e com alguns tipos de medicamentos, polifarmácia, eventos adversos.
+    • Educação e percepção de saúde: falta de conhecimento, temor da dependência de medicamentos, ausência de sintomas, falta de conhecimento sobre as habilidades dos farmacêuticos.
+    • Determinantes sociais: custo do tratamento, restrição financeira, dificuldade com transporte, discriminação, falta de apoio social.
+    • Dificuldades com tecnologias digitais: pouca familiaridade, dificuldade de uso, conexão ruim, barreiras linguísticas, deficiência cognitiva, limitação de mobilidade, sistemas on-line inadequados.
+    • Dificuldades com a autogestão: falta de atividades educacionais personalizadas, diferentes necessidades culturais.
+Quadro 4. Barreiras relacionadas aos usuários conforme condições de saúde.
+Barreira	Condição de saúde
+Características pessoais e de saúde
+Depressão: A depressão quase universalmente teve um impacto negativo na adesão.14	Doenças cardiovasculares
+Estresse, ansiedade, álcool: Estresse, ansiedade, consumo de álcool são fatores que contribuem para a não adesão.14	Doenças cardiovasculares
+Gênero: O risco para não adesão foi de 7 a 10% maior entre as mulheres.14	Doenças cardiovasculares
+Cognição: A adesão foi dificultada por função cognitiva alterada.7	Hipertensão
+Questões familiares: Ser responsável por uma criança pequena ou outros dependentes foram relatados como barreiras para participar da triagem de risco cardiovascular.11	Doenças cardiometabólicas
+Saúde psicológica, nível educacional: A saúde psicológica deficiente (crenças de saúde, motivação e autoeficácia), níveis mais baixos de educação (pobre conhecimento ou conscientização dos serviços educacionais).10	DCV, DPOC, doenças crônicas
+
+
+Barreira	Condição de saúde
+Imprevisibilidade dos sintomas físicos: Devido à imprevisibilidade dos seus sintomas físicos, mulheres idosas tiveram de lidar com uma incerteza constante em relação aos seus corpos; a experiência de fadiga foi variável, causando flutuações imprevisíveis na atividade física.25	Insuficiência cardíaca
+Dificuldades para adesão ao tratamento: medicalização, ansiedade, baixa conscientização dos usuários, falta de apoio das famílias, falta de confiança de profissionais da saúde no contato com o paciente, e diferenças culturais.26	Doenças cardiometabólicas
+Disponibilidade de tempo
+Tempo para a triagem de risco cardiovascular: falta de tempo, estar ocupado com trabalho ou família, nenhum horário de consulta ofertado fora do horário de trabalho.11	Doenças cardiometabólicas
+Tempo para consulta: dificuldade em reservar tempo para consultas.14	Doenças cardiovasculares
+Características do tratamento
+Acesso à dieta mediterrânea: A adesão é considerada difícil em uma região não mediterrânea, devido à composição e disponibilidade dos alimentos nos países mediterrâneos e não mediterrânicos. Evidências indicam que dietas saudáveis (frutas, vegetais, legumes, nozes, peixe, cereais e azeite de oliva) são mais caras do que carnes processadas, batatas ou doces.8	DCV e diabetes
+Preparo da dieta mediterrânea: No Reino Unido, foi identificada como barreira a restrição de tempo para a compra, organização e preparação de alimentos.8	DCV e diabetes
+Duração do tratamento: A duração do tratamento foi importante, com a adesão tendendo a diminuir com o tempo.14	Doenças cardiovasculares
+Tipo do medicamento: Os diuréticos foram associados às menores taxas de adesão e de persistência, em comparação com betabloqueadores, bloqueadores de canais de cálcio, inibidores da enzima conversora de angiotensina e bloqueadores dos receptores da angiotensina II.14	Doenças cardiovasculares
+Dose do medicamento: A adesão diminuiu conforme o aumento no número de doses por dia.14	Doenças cardiovasculares
+Dose, duração e tipo de medicamento: Número de comprimidos por dia, duração do tratamento, não adesão a classes individuais de medicamentos.23	Hipertensão
+Polifarmácia, eventos adversos: Entre as barreiras incluem-se a polifarmácia, preocupação com os eventos adversos da medicação.7	Hipertensão
+Educação e percepção de saúde
+Conhecimento, percepção sobre a medicação e a doença: Esquecimento, falta de conhecimento, percepção sobre a medicação (temores de dependência de medicamentos) e compreensão sobre a doença (pacientes descontinuam o	Doenças cardiovasculares
+
+
+Barreira	Condição de saúde
+tratamento devido a uma falta inicial de sintomas ou após uma redução de sintomas).14	
+Conscientização sobre cuidados farmacêuticos: Parecia haver uma falta de conscientização entre os consumidores sobre as habilidades e capacidades dos farmacêuticos e dos serviços disponíveis através das farmácias.12	Doenças cardiovasculares
+Percepção de saúde: Sentir menos gravidade ou suscetibilidade à doença ou sentir- se saudável foram barreiras relatadas para participar da triagem de risco cardiovascular.11	Doenças cardiometabólicas
+Determinantes sociais
+Questões sociais e psicossociais: determinantes sociais da saúde (finanças, transporte), bem como fatores psicossociais (discriminação devido ao diabetes, falta de apoio da família, amigos ou da comunidade e mensagens culturais inadequadas), podem atuar como grandes barreiras ao atendimento de pessoas com diabetes.10	DCV, DPOC, doenças crônicas
+Renda: Restrições financeiras podem dificultar o tratamento, mesmo quando há um desejo de manter o controle das doenças crônicas.25	Insuficiência cardíaca
+Custo do tratamento: O custo da medicação e do seguro ou programa que auxilia no custo da medicação foram associados à não adesão geral aos medicamentos, e não adesão a classes individuais de medicamentos.23	Hipertensão
+Custos do tratamento: Os pacientes que tiveram que fazer copagamentos para o tratamento tinham um risco 28% maior de não adesão a estatinas e anti- hipertensivos.14	Doenças cardiovasculares
+Apoio social: A falta de apoio social pode prejudicar a autogestão eficaz.25	Insuficiência cardíaca
+Dificuldades com tecnologias digitais
+Percepção e uso de auxílios à decisão (AD): As dificuldades com AD digitais ou em papel com aspectos digitais (vídeos, AD on-line, aplicativos interativos, websites e DVD foram não se sentir confortável com o uso de um tablet e preferir a versão em papel; não indicar as preferências de tratamento na AD; dificuldade de percepção de sua utilidade; suspeita de que o AD fosse utilizado para orientar a escolha do tratamento conforme a preferência do médico.20	DAC, IC terminal e FA
+Pouca familiaridade, baixa confiança: Baixa conscientização e familiaridade com a tecnologia de suporte à decisão clínica, além da falta de confiança nos profissionais.9	Fatores de RCV, diabetes, hipertensão
+Percepção e dificuldades: Os limitantes foram dificuldade no uso; conexão de internet ruim; medo de usar tecnologia; entrega de cuidados impessoais; idade mais avançada; falta de interesse em tecnologia; deficiência cognitiva; problemas técnicos; implicações emocionais e/ou morais; preocupações financeiras; barreiras linguísticas; ansiedade e/ou outras condições de saúde mental; limitações de mobilidade.27	Doenças cardiovasculares
+
+
+Barreira	Condição de saúde
+Inadequação dos sistemas: Os sistemas on-line que permitiam aos pacientes monitorarem seus próprios registros, não eram adequados àqueles se as habilidades necessárias para navegar nesses sistemas às vezes complexos.10	DCV, DPOC, doenças crônicas
+Dificuldades com a autogestão
+Capacidade de engajamento: Nem sempre eles são capazes de contribuir ativamente para seus cuidados, sendo importante reconhecê-los como indivíduos únicos com diferentes níveis de capacidade de engajamento.10	DCV, DPOC, doenças crônicas
+Atividades não personalizadas: Uma barreira para a implementação de suporte de autogestão foi que o aconselhamento fornecido em atividades educacionais não era personalizado para cada paciente.10	DCV, DPOC, doenças crônicas
+Necessidades diversas: Educar e capacitar os pacientes foi um desafio, dada a amplitude das questões clínicas que podem precisar ser abordadas, a natureza das preocupações e ansiedades dos pacientes, suas diferentes necessidades culturais e as dificuldades relacionadas à concordância e adesão.10	DCV, DPOC, doenças crônicas
+Fonte: Elaboração própria. Nota: AD - auxílios à decisão; DAC - doença arterial coronariana; DCV - doença cardiovascular; DPOC - doença pulmonar obstrutiva crônica; DVD - Disco Digital Versátil (Digital Versatile Disc); FA - fibrilação arterial; IC - insuficiência cardíaca; RCV - risco cardiovasculares; % - porcentagem.
+
+        5.2 Facilitadores e barreiras relacionados aos profissionais de saúde
+Onze revisões9,10,12,13,15,17,18,20,25,26,27 apresentaram resultados sobre barreiras e facilitadores relacionados a doença coronariana, doenças cardiovasculares, insuficiência cardíaca, diabetes, hipertensão, depressão, DPOC, doenças crônicas, DAC, IC terminal, fibrilação atrial e fatores de RCV.
+Os seguintes facilitadores foram identificados nos estudos (Quadro 5):
+            ▪ Atuação de enfermeiros: uso de protocolos estruturados, atividades de educação e aconselhamento.
+            ▪ Atuação de farmacêuticos: uso de tecnologia digital, atuação em programas de triagem e de educação.
+            ▪ Atuação de médicos: apoio a idosos, colaboração na autogestão, habilidades de comunicação.
+            ▪ Processos colaborativos e transferência de tarefas: atuação de equipes multidisciplinares, compartilhamento de tarefas, envolvimento de agentes comunitários.
+            ▪ Implementação de modelo de cuidados crônicos: informações adequadas, capacitação, desenvolvimento de habilidades específicas, gerenciamento para melhoria da qualidade, valorização da experiência, contar com liderança clínica.
+
+
+            ▪ Implementação de suporte à decisão clínica: ferramentas para facilitar o atendimento, liderança clínica, informações práticas.
+Quadro 5. Facilitadores relacionados aos profissionais conforme condições de saúde.
+Facilitador	Condição de saúde
+Atuação de enfermeiros
+Uso de protocolos estruturados: A utilização de protocolos estruturados que combinam intervenções não farmacológicas com terapia farmacológica e a utilização de ferramentas validadas pode ter resultado num cuidado melhor ou semelhante por parte dos enfermeiros do que por parte dos médicos15.	Doença coronariana
+Educação e aconselhamento: Intervenções que incluem o fornecimento de informações sobre as causas e a doença dos pacientes podem ter acrescentado benefícios aos cuidados liderados por enfermeiros, resultando em pacientes mais motivados e mais eficazes (autocuidado)15.	Doença coronariana
+Atuação de farmacêuticos
+Uso da tecnologia: A tecnologia digital de saúde possibilitou aprovação e apoio organizacional de departamentos de cardiologia e/ou hospitais; melhor eficiência nos atendimentos; utilidade percebida; maior comunicação com os pacientes; e adesão a programas de treinamento.27	Doenças cardiovasculares
+Programas de triagem: Os farmacêuticos parecem ter agido dentro de suas competências, e os programas de detecção de casos geralmente resultaram em uma grande proporção de indivíduos rastreados sendo encaminhados para exame médico aprofundado ou tratamento.12	Doenças cardiovasculares
+Programa educacional liderado por farmacêuticos: Embora os médicos generalistas acreditassem que isso seria benéfico para os pacientes, foi sugerida uma comunicação mais formal e personalizada entre o farmacêutico e o médico, por exemplo, por meio de recibos de referência, de preferência por fax para facilitar a entrada de informações no registro do paciente.12	Doenças cardiovasculares
+Atuação de médicos
+Apoio a idosos: Os médicos devem ajudar as mulheres idosas a manterem o seu senso de controle sobre as condições crônicas por meio da gestão dos sintomas e de orientação prática para ajustamentos físicos e emocionais à doença, além de considerar a acessibilidade dos regimes de tratamento no que diz respeito à situação financeira dos seus pacientes.25	Insuficiência cardíaca
+Colaboração para a autogestão: Os médicos devem promover uma parceria colaborativa com os seus pacientes, que os incentive a autogerir eficazmente as suas próprias condições crônicas.25	Insuficiência cardíaca
+Comunicação: Como a relação médico-paciente é uma importante fonte de apoio social, os médicos devem praticar a comunicação terapêutica para transmitir cuidado e preocupação com suas pacientes idosas.25	Insuficiência cardíaca
+Processos colaborativos e transferência de tarefas
+
+
+Facilitador	Condição de saúde
+Transferência de tarefas: Os facilitadores são a formação educacional contínua e feedback de profissionais de saúde de nível superior; as pontes entre os cuidados hospitalares e domiciliares; e o fornecimento de ferramentas de treinamento explícitas, incluindo algoritmos de medicação/tratamento17.	Diabetes e hipertensão
+Processos colaborativos: Verificou-se que o gerenciamento colaborativo da insuficiência cardíaca produz melhorias ainda maiores nos resultados clínicos do que os cuidados dirigidos pelo farmacêutico. O trabalho em equipe envolvendo usuários, médicos, outros profissionais de saúde e farmacêuticos foi considerado essencial para o sucesso dos programas colaborativos de gerenciamento do estado da doença.12	Doenças cardiovasculares
+Cuidado baseado em equipe: Quando as tarefas básicas são redistribuídas para um novo membro da equipe não-médico aumenta a capacidade dos membros mais especializados da equipe se concentrarem nas tarefas mais complexas, para as quais são treinados.18	Hipertensão
+Agentes comunitários de saúde (ACS): A seleção cuidadosa da equipe, o treinamento em idiomas locais e o uso de registros de cuidados simples facilitavam o sucesso do rastreamento de risco de doenças cardiovasculares realizado por ACS13.	Risco de doenças cardiovasculares
+Implementação de modelo de cuidados crônicos (MCC)
+Informações suficientes e adequadas: A implementação dependia se informações suficientes foram fornecidas de maneira adequada e se a equipe estava convencida de que uma mudança na forma como os cuidados de saúde eram prestados seria benéfica. Também foi observada a importância de garantir que a equipe de saúde seja apoiada por líderes fortes, capazes de fornecer gerenciamento e suporte clínico10.	Diabetes, DCV, depressão, DPOC, doenças crônicas
+Capacitação: Sessões de aprendizado estruturado envolvendo toda a equipe em ambientes de aprendizagem colaborativos e de apoio, proporcionando oportunidades para fazer perguntas e levantar preocupações, foram pensados para evitar qualquer resistência à mudança10.	Diabetes, DCV, depressão, DPOC, doenças crônicas
+Habilidades específicas: Mostrou-se importante garantir que os membros individuais da equipe tenham o conhecimento e as habilidades necessárias para assumir seus papéis específicos e gerenciar quaisquer novas responsabilidades, além de sentir-se confortável e confiante em assumir novas responsabilidades por meio de oportunidades de treinamento adicional e apoio no trabalho10.	Diabetes, DCV, depressão, DPOC, doenças crônicas
+Gerenciamento da melhoria da qualidade: Iniciativas de melhoria da qualidade que identificam claramente as lacunas no atendimento, de modo que o objetivo seja claramente reconhecido como melhorias no atendimento ao paciente, foram consideradas uma estratégia útil. Os gerentes, portanto, desempenharam um papel importante na liderança da equipe durante o processo de mudança10.	Diabetes, DCV, depressão, DPOC, doenças crônicas
+Valorização da experiência: As habilidades e experiências da equipe de cuidados crônicos foram importantes para o sucesso de um novo modelo. Uma maneira de apoiar a equipe durante o processo de mudança foi formar equipes multidisciplinares, sendo que o respeito pelo papel de cada disciplina e a	Diabetes, DCV, depressão, DPOC, doenças crônicas
+
+
+Facilitador	Condição de saúde
+comunicação interdisciplinar aprimorada foram fundamentais para o sucesso desta iniciativa.10	
+Lideranças clínicas: Contar com líderes clínicos fortes foi necessário para apoiar os profissionais de saúde durante o processo de mudança. O ambiente educacionalmente rico fomentado por esses líderes foi considerado para beneficiar os funcionários temporários e permanentes.10	Diabetes, DCV, depressão, DPOC, doenças crônicas
+Implementação do suporte à decisão clínica (SDC)
+Ferramentas para atendimento: Os facilitadores para a adoção de SDC incluíram ferramentas que facilitaram o atendimento estruturado de doenças crônicas ou desencadearam discussões relevantes durante a consulta clínica.9	Fatores de RCV, diabetes, hipertensão
+Lideranças clínicas: Os profissionais de saúde identificaram líderes clínicos engajados e alocaram pessoal para operar o suporte à decisão clínica.9	Fatores de RCV, diabetes, hipertensão
+Informações práticas: Funções técnicas úteis e recursos atraentes de design foram facilitadores para a aceitação. Os clínicos valorizaram as funções que forneceram “informações prática” relevantes e imediatas.9	Fatores de RCV, diabetes, hipertensão
+Fonte: Elaboração própria. Nota: ACS - agentes comunitários de saúde; DCV - doença cardiovascular; DPOC - doença pulmonar obstrutiva crônica; MCC - modelo de cuidados crônicos; RCV - risco cardiovasculares; SDC - suporte à decisão clínica.
+As seguintes barreiras foram identificadas nos estudos (Quadro 6):
+            ▪ Competências da equipe: falta de habilidades de aconselhamento e educação, falta de conhecimento de cuidados preventivos e de experiência.
+            ▪ Programas de gerenciamento por farmacêuticos: percepção de médicos sobre a competência dos farmacêuticos e relação de confiança entre os profissionais.
+            ▪ Tecnologias digitais: conteúdos abordados, falta de conhecimento sobre os programas, aumento do trabalho e responsabilidades, problemas das tecnologias disponibilizadas.
+            ▪ Suporte à decisão clínica: dificuldade com prioridades e recomendações.
+Quadro 6. Barreiras relacionadas aos profissionais conforme condições de saúde.
+Barreira	Condição de saúde
+Competências da equipe
+Aconselhamento e educação: As barreiras mais frequentemente relatadas foram a falta de habilidades de aconselhamento e educação insuficientes para comunicar com competência informações sobre risco e hábitos de vida26.	Doenças cardiometabólicas
+Conhecimento e experiência: Também foram relatadas como barreiras a falta de conhecimento de cuidados preventivos e falta de experiência26.	Doenças cardiometabólicas
+Programas de gerenciamento por farmacêuticos
+
+
+Barreira	Condição de saúde
+Percepção de médicos e farmacêuticos: O consenso é que tanto os farmacêuticos quanto os médicos generalistas têm reservas sobre a viabilidade de tais programas. Os temas recorrentes incluem a necessidade percebida do serviço, potencial invasão de fronteiras profissionais, experiência do farmacêutico, espaço, tempo e remuneração como desafios para a implementação de serviços de gerenciamento de doenças envolvendo farmacêuticos comunitários.12	Doenças cardiovasculares
+Relações de confiança: Os médicos generalistas enfatizaram que gostariam de ter certeza de que os pacientes seriam encaminhados de volta para eles para questões que estão além das capacidades dos farmacêuticos.12	Doenças cardiovasculares
+Tecnologias digitais
+Conteúdo dos auxílios à decisão: Com relação aos AD digitais ou em papel com aspectos digitais (vídeos, AD on-line, aplicativos interativos, websites e DVDs), os médicos estavam preocupados com o conteúdo, pois achavam que poderia não ser apropriado e continha muita informação, e preferiam que o AD fosse preciso e baseado em evidências.20	DAC, IC terminal e fibrilação atrial
+Uso dos auxílios à decisão: Os relatos indicaram falta de conhecimento entre os médicos sobre o conceito de tomada de decisão compartilhada e como usar o AD. Apesar do treinamento, os médicos usaram o AD de forma diferente e questionaram se ele realmente promoveu a decisão compartihada.20	DAC, IC terminal e fibrilação atrial
+Uso da tecnologia digital: Os profissionais destacaram alguns pontos negativos, tais como, aumento do trabalho e responsabilidades; tecnologias não confiáveis e/ou falta de evidências sobre benefícios; falta de integração com registros médicos eletrônicos; preocupações com privacidade e segurança de dados; preocupações financeiras; entrega de cuidados impessoais; falta de recursos personalizáveis; e questões de reembolso de saúde.27	Doenças cardiovasculares
+Suporte à decisão clínica (SDC)
+Conteúdos do SDC: As barreiras encontradas durante a consulta incluíram “prioridades distorcidas” e “recomendações gerais” que não levaram em conta a agenda do paciente e a necessidade de considerar várias diretrizes clínicas em situações de multimorbidade.9	Fatores de RCV, diabetes, hipertensão
+Fonte: Elaboração própria. Nota: AD - auxílios à decisão; DAC - doença arterial crônica; DVD - Disco Digital Versátil (Digital Versatile Disc); IC - insuficiência cardíaca; RCV - risco cardiovasculares; SDC - suporte à decisão clínica.
+
+        5.3 Facilitadores e barreiras relacionados aos serviços e sistemas de saúde
+Dez revisões9,10,12,13,15,17,21,23,20,26 apresentaram resultados sobre barreiras e facilitadores relacionados a doenças cardiovasculares, doenças cardiometabólicas, diabetes, hipertensão, DAC, IC e fibrilação atrial, DPOC, doenças crônicas, doença coronariana e fatores de RCV.
+Os seguintes facilitadores foram identificados nos estudos (Quadro 7):
+
+
+            ▪ Serviços de farmácia comunitária: atuação de farmacêuticos em programas de triagem, capacitação de farmacêuticos, ampla estratégia de comunicação sobre os serviços prestados, remuneração de farmacêuticos.
+            ▪ Atuação em equipe: diversidade de fatores organizacionais e estruturais, governança.
+            ▪ Comunicação: várias modalidades de comunicação com usuários, disponibilidade de trabalhadores multilíngues.
+            ▪ Implementação e sustentabilidade de novos programas: educação, tempo necessário para a implementação, adaptação ao contexto, colaboração entre os serviços.
+            ▪ Aspectos econômicos: acesso a medicamentos, custo-efetividade de farmacêuticos comunitários.
+Quadro 7. Facilitadores relacionados aos serviços e sistemas conforme condições de saúde.
+Facilitador	Condição de saúde
+Serviços de farmácia comunitária
+Programa de farmacêuticos comunitários: Esses profissionais podem identificar um número significativo de pessoas em risco de DCV, e os programas de triagem em farmácias comunitárias são uma maneira útil de atingir alguns grupos de difícil acesso, como homens, minorias étnicas e comunidades socialmente carentes.12	Risco de doenças cardiovasculares
+Estratégias para implementação e sustentabilidade dos serviços: As estratégias dirigidas aos farmacêuticos incluíram: sessão de treinamento antes do início de uma intervenção, manual educativo para aprendizagem autodirigida, educação/formação contínua durante a prestação do serviço, contato com a equipa de investigação ou facilitadores para abordar questões relativas à prestação do serviço ou para receber feedback sobre o desempenho do serviço, discussão de casos com outros farmacêuticos e/ou profissionais de saúde, assistência por outro profissional de saúde, material de apoio para a prestação do serviço e remuneração pela prestação do serviço21.	Doenças cardiovasculares
+Prestação, implementação e/ou efeito geral dos serviços: As estratégias incluíram farmacêuticos com experiência anterior na prestação de serviços centrados no paciente, serviço divulgado por meio de campanhas nos meios de comunicação (jornais, televisão e rádio) ou de material promocional na farmácia comunitária ou noutros locais (cartazes e folhetos), procedimentos específicos para identificação de pacientes e encaminhamento para serviços de farmácia comunitária, conscientização e/ou acordo de outros profissionais de saúde sobre a prestação de serviços de farmácia comunitária, pacientes que frequentam simultaneamente outros programas/serviços gratuitos de promoção da saúde, farmacêuticos com acesso a bases de dados externas de saúde, outros profissionais de saúde diretamente envolvidos na prestação de serviços de farmácia comunitária e parceiros externos auxiliando na avaliação das variáveis clínicas envolvidas no serviço de farmácia comunitária21.	Doenças cardiovasculares
+
+
+Facilitador	Condição de saúde
+Remuneração dos farmacêuticos: Considerou-se que o principal facilitador para a implementação bem-sucedida de um programa de gerenciamento por farmacêuticos comunitários foi a remuneração recebida, sem a qual esses profissionais não teriam tempo disponível para consultas prolongadas.12	Doenças cardiovasculares
+Atuação em equipe
+Facilitadores organizacionais: responsabilidade adequada, assistência e apoio dentro da prática e das equipes, suporte de tecnologia da informação, flexibilidade no aconselhamento, oportunidade de exames de saúde, prática estruturada de enfermeiros, organização da prática e cooperação com a equipe de saúde aliada ou recursos comunitários, sistema de agendamento em funcionamento, intervenções adaptadas para atingir barreiras identificadas, sistema integrado de registro eletrônico de pacientes e acesso a informações ou registro de pacientes26.	Doenças cardiometabólicas
+Facilitadores estruturais: aconselhamento e intervenções viáveis e eficazes, assistência e apoio disponíveis, disponibilidade de tempo, encaminhamento adequado, identificação de obstáculos para a prevenção, acompanhamento adequado, finanças suficientes, material adequado ao paciente e diretrizes adequadas, uso da mídia para mensagens de saúde e uso da legislação para hábitos não saudáveis como o fumo26.	Doenças cardiometabólicas
+Governança: Uma avaliação da eficácia dos agentes comunitários de saúde (ACSs) no tratamento da hipertensão e diabetes no Irã observou que seu impacto foi substancialmente maior para o diabetes do que a hipertensão.13	Diabetes e hipertensão
+Comunicação
+Comunicação: Envio de cartas de lembrete aos pacientes.13	Diabetes e hipertensão
+Comunicação multilíngue: As estratégias incluíram o recrutamento de funcionários multilíngues, a adaptação e a tradução de materiais, o redesenho de folhetos educacionais para um foco pictórico e o uso de intérpretes.10	Diabetes, DCV, DPOC, doenças crônicas
+Implementação e sustentabilidade de novos programas
+Implementação de auxílios à decisão (AD): a integração da AD no prontuário eletrônico ou em estruturas existentes, como sessões de educação de pacientes, podem facilitar sua aceitação da AD.20	DAC, IC e fibrilação atrial
+Tempo necessário para implementar e sustentar modelos de cuidados crônicos: A introdução do modelo lenta e cuidadosamente, com tempo suficiente para as mudanças culturais necessárias à medida em que a equipe de saúde assume novos papéis e responsabilidades, mostrou-se importante para o sucesso.10	Diabetes, DCV, DPOC, doenças crônicas
+Aceitabilidade das intervenções do modelo de cuidados crônicos (MCC): Um dos fatores mais proeminentemente relatados que influenciaram a implementação bem- sucedida foi a aceitabilidade. A maioria dos participantes sentiu que o MCC implementado em seu cenário era aceitável.10	Diabetes, DCV, DPOC, doenças crônicas
+
+
+Facilitador	Condição de saúde
+Colaboração entre serviços de saúde: A parceria com outros serviços de saúde, como hospitais e serviços especializados, foi considerada para facilitar a implementação e a sustentabilidade dos MCC. Em particular, a colaboração estava ligada à aprendizagem interinstitucionais e à comunicação, tomada de decisões conjuntas, agrupamento de recursos escassos, acesso a serviços de saúde que, de outra forma, poderiam não estar disponíveis e a melhoria da transição dos pacientes entre os serviços de saúde.10	Diabetes, DCV, DPOC, doenças crônicas
+Aspectos econômicos
+Acesso a medicamentos: Seguro ou programa que auxilia no custo de medicamentos foi correlacionado com uma redução de 24% no risco de não adesão (OR = 0,76; IC 95% = 0,60-0,95; P = 0,018).23	Hipertensão
+Acesso a medicamentos: ao discutir estratégias para fortalecer os cuidados com DCV não médicas na China rural, observaram que os planos de distribuição de medicamentos econômicos foram úteis, assim como o uso de um único comprimido multidroga.13	Doenças cardiovasculares
+Custo-efetividade de farmacêuticos comunitários: A intervenção envolvendo farmacêuticos comunitários na prevenção e gerenciamento de DCV foi altamente econômica, pois o ganho de custo por Anos de Vida Ajustados por Qualidade (QALY) de 6.322,58 dólares foi maior do que a referência de 70.000 dólares aceito pelo governo australiano.12	Doenças cardiovasculares
+Fonte: Elaboração própria. Nota: ACS - agentes comunitários de saúde; AD - auxílios à decisão; DAC - doença arterial crônica; DCV - doença cardiovascular; DPOC - doença pulmonar obstrutiva crônica; IC - insuficiência cardíaca; IC 95% - intervalo de confiança de 95%; MCC - modelo de cuidados crônicos; OR = odds ratio; p - probabilidade; QALY - Anos de Vida Ajustados por Qualidade (quality-adjusted life years); % - porcentagem.
+As seguintes barreiras foram identificadas nos estudos (Quadro 8):
+            ▪ Dificuldades estruturais: falta de espaço e de médicos, rotatividade de profissionais.
+            ▪ Dificuldades organizacionais: diversidade de situações, entre as quais, a falta de oferta de prevenção, a falta de acesso às informações sobre os pacientes, problemas de comunicação, a falta de horários adequados para pacientes empregados, a falta de liderança forte.
+            ▪ Educação e apoio ao usuário: motivação e suporte à autogestão.
+            ▪ Implementação de modelos de cuidados crônicos: tempo necessário para aceitar e aplicar o modelo, recursos adequados, profissionais qualificados, aceitabilidade dos usuários.
+            ▪ Implementação de sistemas de suporte à decisão e sistemas de informação: acesso à ferramenta, adequação do processo de trabalho, dificuldades com os sistemas, recursos técnicos.
+            ▪ Transferência de tarefas: diversidade de situações, entre as quais, a falta de políticas sobre a capacidade dos prestadores não-médicos de prescrever
+
+
+medicamentos	para	distúrbios	comuns;	a	falta	de	um	sistema	de encaminhamento como apoio para casos complicados.
+Quadro 8. Barreiras relacionadas aos serviços e sistemas conforme condições de saúde.
+Barreira	Condição de saúde
+Dificuldades estruturais	
+Falta de espaço adequado: A falta de espaço adequado para realizar consultas privadas foi mencionada como uma grande barreira para oferecer qualquer serviço de farmácia com foco no gerenciamento de doenças crônicas.12	Doenças cardiovasculares
+Escassez de médicos: Os sistemas de saúde contam com uma escassez crescente de médicos15.	Doença coronariana
+Suporte de autogestão centrado no paciente: Nem todas as instalações de saúde foram configuradas para fornecer esse nível de atendimento. As clínicas ambulantes podem não ter tempo e os consultórios familiares individuais podem não ter a equipe necessária para fornecer amplo apoio de autogestão centrado no paciente.10	Diabetes, DCV, DPOC, doenças crônicas
+Rotatividade de funcionários: Uma escassez geral de profissionais de saúde qualificados significava que uma equipe altamente qualificada estava sendo substituída por assistentes médicos menos hábeis. A alta rotatividade de pessoal resultou em um descarrilamento completo do processo de implementação. Rotações irregulares de médicos e enfermeiros criaram uma falta de atendimento consistente a doenças crônicas.10	Diabetes, DCV, DPOC, doenças crônicas
+Dificuldades organizacionais
+Diversidade de situações: As mais frequentemente relatadas foram o papel das práticas, a falta de oferta de prevenção, a falta de acesso às informações sobre os pacientes, a falta de suporte de tecnologia da informação, o papel da equipe de cuidados primários, a falta de assistência e serviços de suporte, problemas de comunicação, a falta de horários adequados para pacientes empregados, a falta de liderança forte, baixa qualidade dos registros de pacientes e conexão insuficiente com outros provedores de serviços preventivos.26	Doenças cardiometabólicas
+Educação e apoio ao usuário
+Incentivo aos usuários: Motivar os usuários com doenças crônicas a participar de programas de educação, desenvolver planos de tratamento, incentivar a autogestão e atender às necessidades preventivas e psicossociais, exigiu tempo adicional do prestador de cuidados de saúde.10	Diabetes, DCV, DPOC, doenças crônicas
+Suporte de autogestão centrado no paciente: Além do atendimento centrado no paciente, pode haver a necessidade de garantir que os programas sejam adaptados às necessidades da comunidade ou região em geral. Em particular, as questões de linguagem e alfabetização foram um desafio para mudar o design do sistema de entrega.10	Pacientes com uma ou mais doenças crônicas
+Implementação de modelos de cuidados crônicos (MCC)
+
+
+Barreira	Condição de saúde
+Tempo necessário para confiar no modelo: Embora as pessoas possam ter desejado que as mudanças fossem rapidamente realizadas, levou tempo para que os profissionais de saúde e os pacientes confiassem na nova iniciativa. A tentativa de fazer muitas mudanças simultâneas nas práticas de prestação de cuidados existentes pode desencorajar a equipe de avançar em direção a um novo modelo de cuidados.10	Diabetes, DCV, DPOC, doenças crônicas
+Tempo necessário para realizar as atividades: Novas formas de fornecer serviços pareciam exigir mais tempo da equipe. A quantidade de tempo necessária para conduzir o planejamento de cuidados centrado no paciente era uma séria barreira para implementar o modelo de forma mais ampla.10	Diabetes, DCV, DPOC, doenças crônicas
+Recursos necessários: Os recursos que apoiaram a implementação e a sustentabilidade de forma mais ampla incluíram o tempo e o esforço necessários para implementar um novo modelo, bem como a necessidade de recursos suficientes, incluindo sistemas de informação e comunicação e financiamento. O monitoramento e a avaliação contínuos para garantir melhorias contínuas de qualidade foram então necessários para garantir a sustentabilidade dos MCC.10	Diabetes, DCV, DPOC, doenças crônicas
+Informação e comunicação: Sistemas de informação e comunicação que foram projetados inadequadamente ou não funcionaram bem, eram uma barreira para a implementação e sustentabilidade dos MCC. Os profissionais de saúde criticaram sistemas que simplesmente replicavam os sistemas manuais existentes, registros eletrônicos de saúde que eram limitados em termos de não poder fornecer lembretes em tempo real e registros eletrônicos que exigiam uma quantidade significativa de tempo para inserir ou recuperar informações. As demandas simultâneas associadas à implementação de um sistema de registro médico eletrônico e, ao mesmo tempo, mudanças na maneira como os cuidados são prestados, foram consideradas excessivamente onerosas.10	Diabetes, DCV, DPOC, doenças crônicas
+Disponibilidade de dados: Uma das principais barreiras ao processo de melhorias contínuas da qualidade é a falta de dados úteis e a má coleta de medidas existentes. Um sistema de monitoramento e avaliação era um obstáculo se os provedores percebessem que não agregava valor específico, mas era um fardo adicional.10	Diabetes, DCV, DPOC, doenças crônicas
+Pessoal adequadamente qualificado e experiente: Embora os médicos fossem considerados um componente essencial da equipe de cuidados crônicos, a falta de enfermeiros dedicados a programas de doenças crônicas, bem como equipe de gerenciamento e suporte administrativo, impediu a implementação e/ou a sustentabilidade de um novo MCC. Além disso, se a equipe existente não tivesse histórico prévio de trabalho dentro de uma equipe interdisciplinar, a sustentabilidade do modelo pode ser colocada em risco.10	Diabetes, DCV, DPOC, doenças crônicas
+Aceitabilidade dos usuários: Um estudo que visava fornecer aos pacientes informações on-line, mostrou relatos de pacientes sobre uma série de ineficiências que reduziram a aceitabilidade do sistema, incluindo a falta de resultados on-line e tempos de resposta lentos de enfermeiros e médicos.10	Diabetes, DCV, DPOC, doenças crônicas
+Implementação de sistemas de suporte à decisão e sistemas de informação
+Acesso à ferramenta: Os médicos mencionaram que o acesso à ferramenta durante a consulta era desafiador, pois o auxílio à decisão (AD) não estava integrado ao prontuário eletrônico. Além disso, a falta de comunicação entre os membros da	DAC, IC terminal e fibrilação atrial
+
+
+Barreira	Condição de saúde
+equipe clínica resultou em responsabilidades pouco claras sobre quem deveria entregar a AD e quando entregá-la, tornando o sucesso da implementação dependente do médico.20	
+Processo de trabalho: Falta de tempo, interrupção no fluxo de trabalho e falta de recursos foram as principais barreiras para a adoção do sistema de suporte à decisão (SSD).9	Fatores de RCV, diabetes, hipertensão
+Recursos técnicos: Os provedores experimentaram barreiras técnicas quando a integração do registro de saúde eletrônico era ruim, e o suporte à decisão clínica (SDC) exibia um número excessivo de avisos ou tinha falhas.9	Fatores de RCV, diabetes, hipertensão
+Sistemas de Informação: As barreiras do sistema de informação compreendiam dificuldade em rastrear os pacientes e armazenar seus dados para cuidados longitudinais.9	DCV, hipertensão e diabetes
+Sistemas eletrônicos: Quando dispositivos supostamente economizadores de tempo, como sistemas eletrônicos de informações médicas, foram implementados, os provedores de saúde descobriram que tais iniciativas exigiam uma quantidade significativa de esforço para integrá-las em sua prática diária.10	Diabetes, DCV, DPOC, doenças crônicas
+Transferência de tarefas
+Diversidade de situações: As barreiras nos países de baixa e média renda incluem a falta de políticas sobre a capacidade dos prestadores não-médicos de prescrever medicamentos para distúrbios comuns; a falta de um sistema de encaminhamento como apoio para casos complicados; a falta de uma estrutura organizacional para acomodar um prestador não médico como prestador de cuidados primários; e a falta de competência do prestador não médico na sua capacidade de gerir fatores de risco cardiovascular não complicados17.	Diabetes e hipertensão
+Fonte: Elaboração própria. Nota: AD - auxílio à decisão; DAC - doença arterial crônica; DCV - doença cardiovascular; DPOC - doença pulmonar obstrutiva crônica; IC - insuficiência cardíaca; MCC - modelos de cuidados crônicos; RCV - risco cardiovasculares; SDC - suporte à decisão clínica; SSD - sistema de suporte à decisão.
+
+6. A Iniciativa Global HEARTS
+A Organização Mundial da Saúde (OMS) liderou o desenvolvimento da Iniciativa Global HEARTS para apoiar os governos no fortalecimento da prevenção e controle das DCV, apresentando uma proposta de cinco pacotes técnicos (https://www.who.int/news/item/15- 09-2016-global-hearts-initiative)36.
+Quatro pacotes são voltados para ações em âmbito populacional - MPOWER para o controle do tabaco; ACTIVE para a atividade física; SHAKE para a redução do sal na dieta; e REPLACE para eliminar o consumo de gorduras trans dos alimentos industrializados36.
+O quinto pacote - HEARTS - é direcionado para a Atenção Primária à Saúde com o objetivo de reforçar a gestão clínica das DCV e de seus fatores de risco, envolvendo ações de farmacêuticos comunitários, enfermeiros e trabalhadores de saúde não profissionais36.
+
+
+O pacote técnico HEARTS tem seis módulos - estilo de vida saudável, protocolos de tratamento baseados em evidências, acesso a medicamentos e tecnologia essenciais, gestão de DCV com base no risco, cuidados baseados em equipes e sistemas de monitorização - (Figura 3)36. Faz parte desse pacote um guia que apresenta o passo a passo para a implementação do HEARTS, indicando a necessidade de adaptar os módulos e o programa aos contextos nacional e local.
+Os gráficos de risco de DCV da OMS foram desenvolvidos para 21 regiões globais buscando maximizar sua variabilidade. Eles destinam-se a permitir a introdução de uma abordagem de estratificação de risco total para o tratamento das DCV, incluindo os seguintes algoritmos: idade, sexo, tabagismo, pressão arterial sistólica, história ou evidência de diabetes mellitus, colesterol total, IMC. Em 2019, a OMS passou a estratificar o risco em: <5% de risco de DCV em 10 anos (denotado em verde), 5% a <10% de risco (amarelo), 10% a <20% de risco (laranja), 20% a <30% de risco (vermelho) e risco ≥30% (vermelho escuro)37.
+Esses materiais estão disponíveis em inglês, espanhol e português no site HEARTS nas Américas, da Organização Pan-Americana da Saúde (https://www.paho.org/pt/hearts-nas- americas/hearts-americas-technical-package).
+
+
+
+
+Figura 3. Módulos do pacote HEARTS.
+Fonte: Texto adaptado de Campbell et al. (2021)36.
+        6.1 HEARTS nas Américas
+Uma adaptação regional da iniciativa Global HEARTS, que é o modelo proposto para a gestão do risco de DCV até o ano de 2025, tem sido implementada em 1.045 centros de
+
+
+atenção primária à saúde de 21 países da América Latina e Caribe. Adotou-se uma abordagem de saúde pública e de sistemas de saúde para introduzir sistematicamente intervenções simplificadas ao nível dos cuidados de saúde primários que se centram no controle da hipertensão como ponto de entrada clínico37.
+A HEARTS nas Américas transformou os gráficos de risco de DCV da OMS de 2019 em uma calculadora eletrônica on-line, disponível para dispositivos móveis com software Android ou iOS e que pode ser baixado gratuitamente em espanhol, português ou inglês (https://www.paho.org/en/hearts-americas/cardiovascular-risk-calculator-app).
+A Calculadora de Risco CV da OPAS/OMS, lançada oficialmente pela OPAS no Dia Mundial do Coração, 29 de setembro de 2014, está disponível também na Apple Store e no Google Play. Desde o seu lançamento, ela foi baixada por 12 mil usuários, com uma média de 100 downloads por dia, tendência que se manteve estável após quatro meses, embora ainda altamente concentrada em três países: 40% dos downloads foram na Argentina e 24 % na Colômbia e no México combinados. O Brasil ainda representa um percentual muito pequeno dos downloads (1,4%), considerando o tamanho da sua população, mas isso pode ser devido ao fato de a versão em português só ter sido disponibilizada muito recentemente. O aplicativo foi baixado em quase todos os países do Caribe, mas em proporções muito baixas, apesar de estar disponível em inglês19,37.
+        6.2 Facilitadores e barreiras na implementação do HEARTS em países da América
+Em 2014, o pacote foi testado em Barbados e seguido por três coortes de países, com implementação inicial em Chile, Colômbia (2016); Argentina, Equador, Panamá, Trinidad e Tobago (2018); República Dominicana, México, Peru, Santa Lúcia (2019).
+Sobre a Calculadora de Risco CV, a OPAS buscou novas estratégias de comunicação, como o estabelecimento de parcerias com os principais interessados que possam ajudar a garantir que este produto chegue ao maior número possível de usuários no menor tempo possível. As sociedades profissionais, as redes de escolas médicas e de enfermagem, as associações de pacientes, os meios de comunicação social e as redes sociais podem desempenhar um papel na promoção da sua utilização19.
+Uma revisão com análise documental forneceu dados sobre facilitadores e barreiras à implementação, descritos a seguir no Quadro 938.
+Quadro 9. Facilitadores e barreiras na implementação do HEARTS em países da América Latina e Caribe.
+Facilitador	Justificativa
+Apoio político do nível administrativo mais alto	Em nível nacional, esse apoio tem sido fundamental. A Iniciativa HEARTS nas Américas forneceu um caminho de implementação adaptável dentro
+
+
+Facilitador	Justificativa
+	de um sistema de saúde, o que contribuiu para uma rápida aceitação no nível político. Por exemplo, a grande maioria dos ministros da saúde e autoridades superiores participaram pessoalmente em eventos do HEARTS e demonstraram apoio tangível, com designação do Ministério da Saúde como ponto focal nacional.
+Parceria com sociedades científicas e profissionais	A maioria dos países relata que suas sociedades científicas nacionais, tais como as sociedades relacionadas com a cardiologia e a hipertensão, apoiam e são ativas no HEARTS. Os líderes das sociedades participam em atividades como o desenvolvimento do protocolo de tratamento da hipertensão, master classes e sessões de formação de formadores em âmbito regional e nacional.
+Envolvimento das partes interessadas do sistema de saúde	O processo de desenvolvimento do protocolo de tratamento funciona como uma estratégia de convocação para as partes interessadas, gerando colaboração interprogramática e intersetorial entre médicos, investigadores, várias divisões do Ministério da Saúde e líderes de fornecimento e aquisição de medicamentos.
+Barreira	Justificativa
+Vasta gama de sistemas de informação sanitária nos países	Poucos países possuem um sistema nacional de informação de saúde único e interoperável. Como resultado, a maioria dos países não dispõe de um mecanismo funcional de coleta de dados e de apresentação de relatórios para demonstrar o progresso e identificar áreas com potencial melhoria.
+Falha na atualização das listas nacionais de medicamentos essenciais	Alguns sistemas públicos de saúde carecem de medicamentos anti- hipertensivos de ação prolongada e de dose fixa. Como resultado, os pacientes podem não ter acesso aos medicamentos e apresentar dificuldades para aderir ao tratamento, levando à hipertensão não controlada.
+Dificuldade em supervisionar a validação de monitores automatizados de pressão arterial	A maioria dos países carece de processos de avaliação do desempenho dos sistemas de saúde e de melhoria da qualidade, e não dispõe de incentivos integrados para a melhoria, especialmente ao nível dos cuidados de saúde primários.
+Resistência à mudança	A resistência está presente em diferentes níveis quanto a adotar protocolos e padronizar o tratamento. Uma solução é fornecer fortes evidências científicas para o início precoce da terapia farmacológica e encorajar fortemente a adoção da terapia combinada para aumentar progressivamente o uso dessas terapias de dose fixa.
+Dificuldade de compartilhamento de tarefas	Na maioria dos países, as tarefas relacionadas com o controle da hipertensão são consideradas principalmente da responsabilidade do médico. Além do sistema de saúde centrado no médico, a legislação local
+
+
+Facilitador	Justificativa
+	muitas vezes limita a extensão em que pode ocorrer a transferência de tarefas. Desse modo, é necessária assistência técnica aos implementadores para definir as funções da equipe de cuidados de saúde, melhorar a disponibilidade de formação e reciclagem do pessoal e apoio contínuo.
+Elevada rotatividade de pessoal	Essa é uma realidade em todos os serviços de saúde pública. Por isso, a HEARTS atribui grande importância ao cultivo de liderança técnica e a atividades de formação generalizadas para equipes de cuidados primários.
+Baixa capacidade técnica na área da economia da saúde e das análises econômicas	Esse fator impede a tomada de decisões com base na relação custo- eficácia das mudanças aplicadas às atividades de gestão, de pessoal e de monitoramento.
+Fonte: Adaptado de Giraldo et al. (2021)38.
+
+        6.3 Próximos passos na implementação do HEARTS nas Américas
+A Organização Pan-Americana da Saúde (OPAS) lidera a implementação da Iniciativa HEARTS nas Américas desde 2016, que inclui agora 22 países e 1.380 centros de cuidados de saúde primários39.
+As principais inovações desenvolvidas para catalisar e sustentar a implementação da iniciativa incluem: a) introdução de direcionadores de controle da hipertensão; b) desenvolvimento de um percurso clínico abrangente e prático; c) desenvolvimento de estratégia para melhorar a precisão da medição da pressão arterial; d) criação de plataforma de monitoramento e avaliação; e e) desenvolvimento de um conjunto padronizado de recursos de formação e educação (https://www.paho.org/pt/hearts-nas-americas)39.
+Os países que estão implementando o HEARTS definiram as seguintes prioridades programáticas chaves para os próximos anos39:
+    1) expandir o número de centros de cuidados primários que implementam a iniciativa para maximizar os benefícios para uma população maior e aumentar a seu impulso político;
+    2) adotar a plataforma de monitoramento e avaliação para catalisar mudanças no sistema de saúde;
+    3) implementar um percurso clínico abrangente para a hipertensão, incluindo a prevenção secundária de diabetes e DCV, integrando os principais fatores para o controle da hipertensão; e
+
+
+    4) promover o uso exclusivo de dispositivo automatizado de medição de pressão arterial validado em unidades de APS.
+    7. Considerações finais
+Vinte e uma revisões foram incluídas. Elas apontaram diversas barreiras e facilitadores que influenciam a efetividade das estratégias da APS para o controle das doenças cardiovasculares e de seus fatores de risco.
+As barreiras e os facilitadores estão relacionados aos usuários, profissionais de saúde e sistemas de saúde. Os estudos foram realizados em uma diversidade de países, sendo muitos de alta renda. Apenas uma revisão apresentou resultados sobre o Brasil. No entanto, esses achados são aplicáveis a diferentes contextos de sistemas de saúde.
+Barreiras e facilitadores relacionados aos usuários
+Dezesseis estudos apresentaram resultados para hipertensão, doenças cardiometabólicas, insuficiência cardíaca, doenças cardiovasculares, diabetes, fatores de risco cardiovascular, doença pulmonar obstrutiva crônica e doenças crônicas. Os facilitadores se referem a características pessoais e de saúde, percepção de saúde e atitudes, características do tratamento, determinantes sociais, cuidados de enfermagem, cuidados farmacêuticos, educação e comunicação, uso de tecnologias digitais. As barreiras se relacionam às características pessoais e de saúde, disponibilidade de tempo, características do tratamento, educação e percepção de saúde, determinantes sociais, dificuldades com tecnologias digitais e dificuldades com a autogestão.
+Barreiras e facilitadores relacionados aos profissionais de saúde
+Onze estudos apresentaram resultados relativos a doença coronariana, doenças cardiovasculares, insuficiência cardíaca, diabetes, hipertensão, depressão, DPOC, doenças crônicas, DAC, IC terminal, fibrilação atrial e fatores de RCV. Os facilitadores incluem atuação de enfermeiros, farmacêuticos e médicos, processos colaborativos e transferência de tarefas, implementação de modelo de cuidados crônicos e de suporte à decisão clínica. As barreiras estão relacionadas a competências da equipe, programas de gerenciamento por farmacêuticos, tecnologias digitais e suporte à decisão clínica.
+Barreiras e facilitadores relacionados aos serviços e sistemas de saúde
+Dez estudos apresentaram resultados para doenças cardiovasculares, doenças cardiometabólicas, diabetes, hipertensão, DAC, IC e fibrilação atrial, DPOC, doenças crônicas, doença coronariana e fatores de RCV. Os facilitadores se relacionam a serviços de farmácia comunitária, atuação em equipe, comunicação, implementação e sustentabilidade de novos programas e aspectos econômicos. As barreiras se referem a dificuldades estruturais e
+
+
+organizacionais, educação e apoio ao usuário, implementação de modelos de cuidados crônicos, de sistemas de suporte à decisão e sistemas de informação e transferência de tarefas.
+Barreiras e facilitadores para a implementação do pacote HEARTS
+O pacote técnico HEARTS, da OMS, é direcionado para a Atenção Primária à Saúde com o objetivo de reforçar a gestão clínica das DCV e de seus fatores de risco, envolvendo ações de farmacêuticos comunitários, enfermeiros e trabalhadores de saúde não profissionais. Nas Américas, essa iniciativa tem sido liderada pela OPAS.
+Um estudo aponta como facilitadores para a implementação da HEARTS nas Américas: o apoio político do nível administrativo mais alto, a parceria com sociedades científicas e profissionais, e o envolvimento das partes interessadas do sistema de saúde. Por outro lado, várias barreiras precisam ser superadas: a vasta gama de sistemas de informação sanitária nos países, a falha na atualização das listas nacionais de medicamentos, a dificuldade em supervisionar a validação de monitores automatizados de pressão arterial, a resistência à mudança, a dificuldade de compartilhamento de tarefas, a elevada rotatividade de pessoal, e a baixa capacidade técnica na área da economia da saúde e das análises econômicas.
+
+
+    8. Referências
+        1. Organização Mundial de Saúde. Enfermedades cardiovasculares. Maio de 2017. [Acesso em: 23 fev. 2023]. Disponível em: https://www.who.int/es/news-room/fact- sheets/detail/cardiovascular-diseases-(cvds)
+        2. Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de Análise em Saúde e Vigilância de Doenças Não Transmissíveis. Plano de Ações Estratégicas para o Enfrentamento das Doenças Crônicas e Agravos não Transmissíveis no Brasil 2021-2030 [recurso eletrônico] /Ministério da Saúde, Secretaria de Vigilância em Saúde, Departamento de Análise em Saúde e Vigilância de Doenças Não Transmissíveis. Brasília: Ministério da Saúde, 2021. [Acesso em: 23 fev. 2023]. Disponível em: https://www.gov.br/saude/pt-br/centrais-de- conteudo/publicacoes/publicacoes-svs/doencas-cronicas-nao-transmissiveis- dcnt/09-plano-de-dant-2022_2030.pdf/
+        3. Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de Análise de Situação de Saúde. Plano de ações estratégicas para o enfrentamento das doenças crônicas não transmissíveis (DCNT) no Brasil 2011-2022 / Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de Análise de Situação de Saúde. – Brasília: Ministério da Saúde, 2011. [Acesso em: 23 fev. 2023]. Disponível em: https://bvsms.saude.gov.br/bvs/publicacoes/plano_acoes_enfrent_dcnt_2011.pdf
+        4. Domene FM, Silva JL, Toma TS, Barreto JOM. PROTOCOLO DE REVISÃO RÁPIDA -
+Doenças cardiovasculares e seus fatores de risco: desafios para seu controle na Atenção Primária à Saúde [Internet]. Acesso em: 21 nov 2023. Disponível em: https://www.researchgate.net/publication/375121159
+        5. Haby MM, Clark R. Respostas rápidas para Políticas de Saúde Informadas por Evidências. BIS [Internet] 2016; p.32-42. [Acesso em: 18 jan. 2021]. Disponível em: http://docs.bvsalud.org/biblioref/2019/11/1024035/bis-v17n1-politicas-de-saude- 32-42.pdf
+        6. Ouzzani M, Hammady H, Fedorowicz Z, et al. Rayyan—a web and mobile app for systematic reviews. Syst Rev 2016; 5: 210.
+        7. Afiani N, Nurmala I, Mahmudah. A systematic review on the determinants of medication adherence in older adults with hypertension. Journal of Public Health in Africa. 2023;14.
+        8. AlAufi NS, Chan YM, Waly MI, Chin YS, Mohd Yusof B-N, Ahmad N. Application of Mediterranean Diet in Cardiovascular Diseases and Type 2 Diabetes Mellitus: Motivations and Challenges. Nutrients. 2022;14(13):2777-N.PAG.
+        9. Chen W, O'Bryan CM, Gorham G, Howard K, Balasubramanya B, Coffey P, et al. Barriers and enablers to implementing and using clinical decision support systems for
+
+
+chronic diseases: a qualitative systematic review and meta-aggregation. Implement Sci Commun. 2022;3(1):81.
+        10. Davy C, Bleasel J, Hueiming L, Tchan M, Ponniah S, Brown A. Factors influencing the implementation of chronic care models: A systematic literature review. BMC Family Practice. 2015;16(1):1-12.
+        11. de Waard AM, Wändell PE, Holzmann MJ, Korevaar JC, Hollander M, Gornitzki C, et al. Barriers and facilitators to participation in a health check for cardiometabolic diseases in primary care: A systematic review. Eur J Prev Cardiol. 2018;25(12):1326- 40.
+        12. George J, McNamara K, Stewart K. The roles of community pharmacists in cardiovascular disease prevention and management. Australasian Medical Journal. 2011;4(5):266-72.
+        13. Heller DJ, Kumar A, Kishore SP, Horowitz CR, Joshi R, Vedanthan R. Assessment of Barriers and Facilitators to the Delivery of Care for Noncommunicable Diseases by Nonphysician Health Workers in Low- and Middle-Income Countries: A Systematic Review and Qualitative Analysis. JAMA Network Open. 2019;2(12):e1916545-e.
+        14. Leslie KH, McCowan C, Pell JP. Adherence to cardiovascular medication: a review of systematic reviews. Journal of Public Health. 2019;41(1):e84-e94
+        15. Martínez-González NA, Tandjung R, Djalali S, Rosemann T. The impact of physician- nurse task shifting in primary care on the course of disease: a systematic review. Hum Resour Health. 2015;13:55.
+        16. Mohebbi B, Sabouri M, Tol A. Application of health education and promotion theory- based interventions on patients with cardiovascular disease: A systematic review. J Educ Health Promot. 2021;10:236.
+        17. Ogedegbe G, Gyamfi J, Plange-Rhule J, Surkis A, Rosenthal DM, Airhihenbuwa C, et al. Task shifting interventions for cardiovascular risk reduction in low-income and middle-income countries: a systematic review of randomised controlled trials. BMJ Open. 2014;4(10):e005983.
+        18. Ogungbe O, Cazabon D, Ajenikoko A, Jeemon P, Moran AE, Commodore-Mensah Y. Determining the frequency and level of task-sharing for hypertension management in LMICs: A systematic review and meta-analysis. EClinicalMedicine. 2022;47:101388.
+        19. Ordúñez P, Tajer C. Disseminating cardiovascular disease risk assessment with a PAHO mobile app: a public eHealth intervention. 2015.
+        20. Peters LJ, Torres-Castaño A, van Etten-Jamaludin FS, Perestelo Perez L, Ubbink DT. What helps the successful implementation of digital decision aids supporting shared decision-making in cardiovascular diseases? A systematic review. Eur Heart J Digit Health. 2023;4(1):53-62.
+
+
+        21. Sabater-Hernández D, Sabater-Galindo M, Fernandez-Llimos F, Rotta I, Hossain LN, Durks D, et al. A Systematic Review of Evidence-Based Community Pharmacy Services Aimed at the Prevention of Cardiovascular Disease. J Manag Care Spec Pharm. 2016;22(6):699-713.
+        22. Santschi V, Chiolero A, Burnand B, Colosimo AL, Paradis G. Impact of pharmacist care in the management of cardiovascular disease risk factors: a systematic review and meta-analysis of randomized trials. Arch Intern Med. 2011;171(16):1441-53.
+        23. Schneider APH, Gaedke MÂ, Garcez A, Barcellos NmT, Paniz VMV. Effect of characteristics of pharmacotherapy on non-adherence in chronic cardiovascular disease: A systematic review and meta-analysis of observational studies. International Journal of Clinical Practice. 2018;72(1):1-.
+        24. Singh P, LeBlanc P, King-Shier K. Interventions to Improve Medication Adherence in Ethnically Diverse Patients: A Narrative Systematic Review. Journal of Transcultural Nursing. 2021;32(5):600-13.
+        25. Ru TZ, Hong EPW, Hegney DG. A qualitative systematic review on the experiences of self-management in community-dwelling older women living with chronic illnesses. JBI Library of Systematic Reviews. 2011;9(62):2778-828.
+        26. Wändell PE, Waard A-KMd, Holzmann MJ, Gornitzki C, Lionis C, Wit Nd, et al. Barriers and facilitators among health professionals in primary care to prevention of cardiometabolic diseases: A systematic review. Family Practice. 2018;35(4):383-98.
+        27. Whitelaw S, Pellegrini DM, Mamas MA, Cowie M, Van Spall HGC. Barriers and facilitators of the uptake of digital health technology in cardiovascular care: a systematic scoping review. Eur Heart J Digit Health. 2021;2(1):62-74.
+        28. Chen DYM, Wu XV, Chan EY, Goh YS. Nurse‐Led Tele‐Coaching on Modifiable
+Cardiovascular Risk Factors in People with Type 2 Diabetes Mellitus: A Systematic
+Review and Meta‐Analysis. Worldviews on Evidence-Based Nursing. 2019;16(6):424- 32.
+        29. Page MJ, McKenzie JE, Bossuyt PM, et al. The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. Syst Rev 2021; 10: 89.
+        30. Silva, LALB; Melo, RC; Araújo, B; Luquine J, CD; Milhomens ML; Bortoli MC et al. Estratégias de adesão ao tratamento de longo prazo para pessoas adultas com hipertensão arterial na Atenção Primária à Saúde (APS); Fiocruz Brasília; Instituto de Saúde de São Paulo; 17 mar 2021. 23 p. [Acesso em: 20 nov. 2023}. Disponível em: https://docs.bvsalud.org/biblioref/2022/02/1358443/07_sre_depros_has_adesao.pd f
+        31. Melo, RC; Araújo, B; Luquine J, CD; Milhomens, LM; Silva, LALB; Bortoli, MC; et al. Estratégias de adesão ao tratamento de longo prazo para pessoas adultas com diabetes mellitus tipo 2 na APS; Fiocruz Brasília; Instituto de Saúde de São Paulo; 28 jan 2021. 21 p. [Acesso em: 21 nov. 2023}. Disponível em:
+
+
+https://docs.bvsalud.org/biblioref/2022/02/1358445/08_sre_depros_dm_adesao.pd f
+        32. Silva, LALB; Melo, RC; Araújo, B; Luquine J, CD; Milhomens ML; Bortoli MC et al. Barreiras e facilitadores na APS para adesão ao tratamento em adultos com hipertensão arterial ou diabetes mellitus tipo 2. Fiocruz Brasília; Instituto de Saúde de São Paulo; 23 fev 2021. 19. p. [Acesso em: 21 nov. 2023}. Disponível em: https://docs.bvsalud.org/biblioref/2022/02/1358452/09_sre_depros_barreiras- facilitadores_has-dm.pdf
+        33. Luquine J, CD; Domene, FM; Silva, JL; Milhomens ML; Araújo, B; Silva, LALB; et al. Tratamento de hipertensão arterial sistêmica na Atenção Primária à Saúde. Fiocruz Brasília; Instituto de Saúde de São Paulo; 15 mar 2021. 32. p. [Acesso em: 21 nov. 2023}. Disponível em: https://docs.bvsalud.org/biblioref/2022/02/1358530/17_rr_depros_has_tratamento. pdf
+        34. Domene, FM; Silva, JL; Melo, RC; Araújo, B; Silva, LALB; Milhomens ML et al. Satisfação de usuários com diabetes tipo 2 e hipertensão arterial na Atenção Primária à Saúde. Fiocruz Brasília; Instituto de Saúde de São Paulo; 5 nov 2021. 28. p. [Acesso em: 21 nov. 2023}. Disponível em: https://docs.bvsalud.org/biblioref/2022/03/1362985/29_sre_depros_has- dm_aps_final.pdf
+        35. Silva, JL; Domene, FM; Milhomens, LM; Araújo, BC; Melo, RC; Silva, LALB; Redução ou cessação do uso de derivados de tabaco na APS. Fiocruz Brasília; Instituto de Saúde de São Paulo; 29 set 2021. 42. p. [Acesso em: 21 nov. 2023}. Disponível em: https://docs.bvsalud.org/biblioref/2022/02/1358561/30_sre_depros_reducao_cessa cao_tabagismo.pdf
+        36. Campbell NRC, Ordunez P, Giraldo G, Rodriguez Morales YA, Lombardi C, Khan T et al. WHO HEARTS: A Global Program to Reduce Cardiovascular Disease Burden: Experience Implementing in the Americas and Opportunities in Canada. Can J Cardiol. 2021 May;37(5):744-755.
+        37. Ordunez P, Tajer C, Gaziano T, Rodriguez YA, Rosende A, Jaffe MG. The HEARTS app: a clinical tool for cardiovascular risk and hypertension management in primary health care. Rev Panam Salud Publica. 2022;46:e12.
+        38. Giraldo GP, Joseph KT, Angell SY, Campbell NRC, Connell K, DiPette DJ et al. Mapping stages, barriers and facilitators to the implementation of HEARTS in the Americas initiative in 12 countries: A qualitative study. J Clin Hypertens (Greenwich). 2021 Apr;23(4):755-765.
+        39. Ordunez P, Campbell NRC, Giraldo Arcila GP, Angell SY, Lombardi C, Brettler JW, et al. HEARTS in the Americas: innovations for improving hypertension and cardiovascular disease risk management in primary care. Rev Panam Salud Publica. 2022;46:e96.
+
+Responsáveis pela elaboração
+Elaboradores
+Emanuelly Camargo Tafarello
+Biomédica, especialista em Saúde Coletiva Assistente de pesquisa, bolsista Fiocruz Brasília http://lattes.cnpq.br/2562253084890374
+
+Jessica De Lucca Da Silva
+Psicóloga, especialista em Saúde Coletiva Assistente de pesquisa, bolsista Fiocruz Brasília http://lattes.cnpq.br/0778220737989360
+Letícia Aparecida Lopes Bezerra da Silva Obstetriz, especialista em Saúde Coletiva Assistente de pesquisa, bolsista Fiocruz Brasília http://lattes.cnpq.br/0923884031059013
+
+Rosana Evangelista Poderoso
+Bibliotecária, Doutora em Ciências da Saúde
+Biblioteca da Faculdade de Ciências Médicas da Universidade Estadual de Campinas http://lattes.cnpq.br/3659260110568826
+Tereza Setsuko Toma Pesquisadora colaboradora Instituto de Saúde - SES/SP
+http://lattes.cnpq.br/3621675012351921
+Coordenação
+Jorge Otávio Maia Barreto
+Pesquisador em Saúde Pública, Fiocruz Brasília http://lattes.cnpq.br/664588881299182
+Declaração de potenciais conflitos de interesse dos elaboradores
+Os autores declaram não possuir conflitos de interesse.
+Financiamento
+Esta síntese rápida foi comissionada e subsidiada pelo Ministério da Saúde, no âmbito do projeto GEREB-032-FEX-22.
+Protocolo
+DOI: 10.13140/RG.2.2.28256.25600 (https://www.researchgate.net/publication/375121159)
+
+
+Apêndices
+Apêndice 1. Termos e resultados das estratégias de busca
+
+Base; Data	Estratégia	Resultado
+Pubmed
+29/08/2023
+a 30/08/2023	(((((((("Cardiovascular Diseases"[Title/Abstract]) OR ("Cardiovascular Disease"[Title/Abstract]))		OR	("Major			 Adverse			Cardiac Events"[Title/Abstract])) OR ("Cardiac Events"[Title/Abstract])) OR ("Cardiac Event"[Title/Abstract])) OR ("Adverse Cardiac Event"[Title/Abstract])) OR ("Adverse Cardiac Events"[Title/Abstract])) OR ((((((((("Heart Disease Risk Factors"[Title/Abstract]) OR ("Cardiovascular Risk Factors"[Title/Abstract])) OR ("Cardiovascular Risk Factor"[Title/Abstract])) OR ("Risk Factors for Heart Disease"[Title/Abstract])) OR ("Risk Factors for Cardiovascular Disease"[Title/Abstract])) OR ("Cardiovascular Risk"[Title/Abstract])) OR ("Cardiovascular Risks"[Title/Abstract])) OR ("Residual Cardiovascular Risk"[Title/Abstract])) OR ("Residual Cardiovascular Risks"[Title/Abstract]))) AND ((((((((((((((((("Delivery of Health Care"[Title/Abstract]) OR ("Delivery of Healthcare"[Title/Abstract])) OR ("Healthcare Deliveries"[Title/Abstract])) OR ("Healthcare			Delivery"[Title/Abstract]))	OR				("Health		Care Delivery"[Title/Abstract])) OR ("Health Care"[Title/Abstract])) OR (Healthcare[Title/Abstract])) OR ("Health Care Systems"[Title/Abstract])) OR ("Health	Care		System"[Title/Abstract]))				OR			("Healthcare Systems"[Title/Abstract])) OR ("Healthcare System"[Title/Abstract])) OR ("Community-Based Distribution"[Title/Abstract])) OR ("Community Based Distribution"[Title/Abstract]))			OR					("Community-Based Distributions"[Title/Abstract])) OR ("Distributional Activities"[Title/Abstract])) OR ("Distributional Activity"[Title/Abstract])) OR ((((((((("Health Promotion"[Title/Abstract]) OR ("Promotion of Health"[Title/Abstract])) OR ("Health		Promotions"[Title/Abstract]))		OR				("Promotional Items"[Title/Abstract])) OR ("Promotional Item"[Title/Abstract])) OR ("Wellness				Programs"[Title/Abstract]))			OR				("Wellness Program"[Title/Abstract])) OR ("Health Campaigns"[Title/Abstract])) OR ("Health Campaign"[Title/Abstract]))) Filters: Systematic Review	544
+Lilacs
+29/08/2023
+a 30/08/2023	(((“Doenças Cardiovasculares”) OR (“Cardiovascular Diseases”) OR (“Enfermedades Cardiovasculares”) OR (“Doenças do Aparelho Circulatório”) OR (“Eventos Cardíacos Adversos”) OR (“Eventos Cardíacos”) OR (“Eventos Cardíacos Adversos Maiores”) OR (“Eventos Cardíacos Adversos Principais”)) OR ((“Fatores de Risco de Doenças Cardíacas”) OR (“Heart Disease Risk Factors”) OR (“Factores de Riesgo de Enfermedad Cardiovascular”) OR (“Fatores de Risco Cardiovasculares”) OR (“Fatores de Risco para Doenças Cardiovasculares”) OR (“Fatores de Risco para Doenças Cardíacas”) OR (“Fatores de Risco Cardiovascular”) OR (“Fatores de Risco de Doenças Cardiovasculares”) OR (“Pontuação de Risco Cardiovascular”) OR (“Risco Cardiovascular”) OR (“Risco Cardiovascular Residual”))) AND (((“Promoção da saúde”) OR (“Health Promotion”) OR (“promoción de la salud”) OR (“Promoção em Saúde”) OR (“Item Promocional”) OR (“Itens Promocionais”) OR (“Promoção do Bem Estar”) OR (“Programas de Bem-Estar”) OR (“Campanhas de Saúde”) OR (“Ambientes de Apoio à Saúde”) OR (“Ambientes Apoiadores de Saúde”)) OR ((“Prestação de Assistência à Saúde”) OR (“Delivery of Health Care”) OR (“Atención a la Salud”) OR (“Prestação de Cuidados de Saúde”) OR (“Rede de Cuidados Continuados de Saúde”) OR (“Cuidados de Saúde”) OR	140
+
+
+	(“Assistência à Saúde”) OR (“Assistência Sanitária”) OR (“Cuidados de Assistência à Saúde Atenção à Saúde”) OR (“Sistemas de Assistência à Saúde”)))
+Filtros aplicados Limpar todos Base de dados LILACS
+BDENF - Enfermagem IBECS
+WPRIM (Pacífico Ocidental) Coleciona SUS
+PAHO-IRIS BRISA/RedTESA
+Index Psicologia - Periódicos BBO - Odontologia ARGMSAL
+BINACIS
+MOSAICO - Saúde integrativa PIE
+SciELO Preprints Sec. Est. Saúde SP Tipo de estudo Revisão sistemática
+Revisão sistemática de estudos observacionais	
+Embase (exceto Medline	e PubMed)
+
+29/08/2023
+a 30/08/2023	Embase session results (30 Aug 2023)
+No.	Query	Results
+#10	#8 AND #9	115
+#9	'systematic review'/exp OR 'systematic review'	532487
+#8	#7 AND [embase]/lim NOT ([embase]/lim AND [medline]/lim) 3166
+#7	#3 AND #6	11562
+#6	#4 AND #5	103956
+#5	'health promotion'/exp OR 'health promotion' OR 'promotion of health' OR 'health promotions' OR 'promotional items'/exp OR 'promotional items' OR 'promotional item' OR 'wellness programs' OR 'wellness program' OR 'health campaigns' OR 'health campaign'  190723
+#4	'delivery of health care'/exp OR 'delivery of health care' OR 'delivery of healthcare'/exp OR 'delivery of healthcare' OR 'healthcare deliveries' OR 'healthcare delivery'/exp OR 'healthcare delivery' OR 'health care delivery'/exp OR 'health care delivery' OR 'health care'/exp OR 'health care' OR 'healthcare'/exp OR 'healthcare' OR 'health care systems' OR 'health care system'/exp OR 'health care system' OR 'healthcare systems' OR 'healthcare system'/exp OR 'healthcare system' OR 'community based distribution'/exp OR 'community based distribution' OR 'community-based distributions' OR 'distributional activities'/exp OR 'distributional activities' OR 'distributional activity' 8099745
+#3	#1 OR #2	5542175
+#2	'heart disease risk factor'/exp OR 'heart disease risk factor' OR 'heart disease risk factors'/exp OR 'heart disease risk factors' OR 'cardiovascular risk factors'/exp OR 'cardiovascular risk factors' OR 'cardiovascular risk factor'/exp OR 'cardiovascular risk factor' OR 'risk factors for heart disease'/exp OR 'risk factors for heart disease' OR 'risk factors for cardiovascular disease' OR	115
+
+
+	'cardiovascular risk'/exp OR 'cardiovascular risk' OR 'cardiovascular risks' OR 'residual cardiovascular risk'	308847
+#1	'cardiovascular disease'/exp OR 'cardiovascular disease' OR 'major adverse cardiac event'/exp OR 'major adverse cardiac event' OR 'major adverse cardiac events'/exp OR 'major adverse cardiac events' OR 'cardiac events' OR 'cardiac event' OR 'adverse cardiac event' OR 'adverse cardiac events'
+5503425	
+HSE
+29/08/2023
+a 30/08/2023	Cardiovascular Diseases OR Major Adverse Cardiac Events OR Cardiac Events OR Adverse Cardiac Event OR Cardiovascular Risk Factors OR Adverse Cardiac Events OR Heart Disease Risk Factors OR Cardiovascular Risk Factor OR Risk Factors for Heart Disease OR Risk Factors for Cardiovascular Disease OR Cardiovascular Risk OR Cardiovascular Risks OR Residual Cardiovascular Risk OR AND (Wellness Programs OR Health Promotion OR Promotion of Health OR Promotional Items OR Health Campaigns OR Health Campaign)	58
+CINAHL
+29/08/2023
+a 30/08/2023	S9	S5 AND S8	620
+S8	(S3 OR S4) AND (S6 AND S7)	13,843 S7	S3 OR S4	826,234
+S6	S1 OR S2	124,322
+S5	"systematic review"	185,231
+S4	“health promotion “ OR “health promotion “ OR “promotion of health “ OR “health promotions “ OR “promotional items “ OR “promotional items “ OR “promotional item “ OR “wellness programs “ OR “wellness program “ OR “health campaigns “ OR “health campaign”	90,594
+S3	“delivery of health care” OR “delivery of health care” OR “delivery of healthcare” OR “delivery of healthcare” OR “healthcare deliveries” OR “healthcare delivery” OR “healthcare delivery” OR “health care delivery” OR “health care delivery” OR “health care” OR “health care” OR “healthcare” OR “healthcare” OR “health care systems” OR “health care system” OR “health care system” OR “healthcare systems” OR “healthcare system” OR “healthcare system” OR “community based distribution” OR “community based distribution” OR “community-based distributions” OR “distributional activities” OR “distributional activities” OR “distributional activity”
+755,103
+S2	“heart disease risk factor” OR “heart disease risk factor” OR “heart disease risk factors” OR “heart disease risk factors” OR “cardiovascular risk factors” OR “cardiovascular risk factors” OR “cardiovascular risk factor” OR “cardiovascular risk factor” OR “risk factors for heart disease” OR “risk factors for heart disease” OR “risk factors for cardiovascular disease” OR “cardiovascular risk” OR “cardiovascular risk” OR “cardiovascular risks” OR “residual cardiovascular risk”	50,108
+S1	“cardiovascular disease” OR “cardiovascular disease” OR “major adverse cardiac event” OR “major adverse cardiac event” OR “major adverse cardiac events” OR “major adverse cardiac events” OR “cardiac events” OR “cardiac event” OR “adverse cardiac event” OR “adverse cardiac events”
+93,492	620
+Total	1477
+Fonte: Elaboração própria. Nota: Duplicações removidas pelo endnote automaticamente, antes de incluir os arquivos de referências no Rayyan.
+
+
+Apêndice 2. Estudos excluídos após leitura do texto completo, com justificativa
+
+Estudo
+Não aborda o fenômeno de interesse
+    1. Alabkal RM, Medlinskiene K, Silcock J, Graham A. Impact of Pharmacist-Led Interventions to Improve Clinical Outcomes for Adults With Type 2 Diabetes at Risk of Developing Cardiovascular Disease: A Systematic Review and Meta-analysis. J Pharm Pract. 2023;36(4):888-99.
+    2. Clinical update. Nurse-led interventions to reduce cardiac risk factors in adults. Australian Nursing Journal. 2010;18(3):28-30.
+    3. Alshehri AA, Jalal Z, Cheema E, Haque MS, Jenkins D, Yahyouche A. Impact of the pharmacist-led intervention on the control of medical cardiovascular risk factors for the primary prevention of cardiovascular disease in general practice: A systematic review and meta-analysis of randomised controlled trials. Br J Clin Pharmacol. 2020;86(1):29-38.
+    4. An S, Song R. Effects of health coaching on behavioral modification among adults with cardiovascular risk factors: Systematic review and meta-analysis. Patient Educ Couns. 2020;103(10):2029-38.
+    5. Anand TN, Joseph LM, Geetha AV, Chowdhury J, Prabhakaran D, Jeemon P. Task-sharing interventions for cardiovascular risk reduction and lipid outcomes in low- and middle-income countries: A systematic review and meta-analysis. J Clin Lipidol. 2018;12(3):626-42.
+    6. Bottorff J, Seaton C, Johnson S, Caperchione C, Oliffe J, More K, et al. An Updated Review of Interventions that Include Promotion of Physical Activity for Adult Men. Sports Medicine. 2015;45(6):775-800.
+    7. Cai H, Dai H, Hu Y, Yan X, Xu H. Pharmacist care and the management of coronary heart disease: a systematic review of randomized controlled trials. BMC Health Serv Res. 2013;13:461.
+    8. Coronado-Vázquez V, Canet-Fajas C, Delgado-Marroquín MT, Magallón-Botaya R, Romero-Martín M, Gómez- Salgado J. Interventions to facilitate shared decision-making using decision aids with patients in Primary Health Care: A systematic review. Medicine (Baltimore). 2020;99(32):e21389.
+    9. Costa LA, Sales APdA. A influência da cultura nas práticas de cuidado a pacientes com hipertensão: uma revisão integrativa. Rev Saúde Pública Mato Grosso do Sul (Online). 2018;1(1):75-85.
+    10. Cutrona SL, Choudhry NK, Stedman M, Servi A, Liberman JN, Brennan T, et al. Physician effectiveness in interventions to improve cardiovascular medication adherence: a systematic review. J Gen Intern Med. 2010;25(10):1090-6.
+    11. de Araújo Pio CS, Chaves G, Davies P, Taylor R, Grace S. Interventions to promote patient utilization of cardiac rehabilitation: Cochrane systematic review and meta-analysis. Journal of Clinical Medicine. 2019;8(2).
+    12. de Souza Cazarim M, Cruz-Cazarim ELC, Boyd K, Wu O, Nunes AA. Effect of Medication Therapy Management by Pharmaceutical Care on Blood Pressure and Cardiovascular Risk in Hypertension: A Systematic Review, Meta-Analysis, and Meta-Regression. Pharmaceuticals (Basel). 2023;16(6).
+    13. Earl GL, Henstenburg JA. Dietary approaches to hypertension: A call to pharmacists to promote lifestyle changes. Journal of the American Pharmacists Association. 2012;52(5):637-45.
+    14. Glynn L, Fahey T. Cardiovascular medication: improving adherence. BMJ Clin Evid. 2011;2011.
+    15. Gorina M, Limonero JT, Álvarez M. Effectiveness of primary healthcare educational interventions undertaken by nurses to improve chronic disease management in patients with diabetes mellitus, hypertension and hypercholesterolemia: A systematic review. Int J Nurs Stud. 2018;86:139-50.
+    16. Hart PL. Women's perceptions of coronary heart disease: an integrative review. Journal of Cardiovascular Nursing. 2005;20(3):170-6.
+    17. Harte E, MacLure C, Martin A, Saunders CL, Meads C, Walter FM, et al. Reasons why people do not attend NHS Health Checks: a systematic review and qualitative synthesis. British Journal of General Practice. 2018;68(666):e28-e35.
+    18. Harvey J, Loar R. Nurse-led interventions to reduce cardiac risk factors in adults. Best Practice. 2009;13(5):21-4.
+    19. Hassan D, Patel KK, Peddemul A, Sikandar R, Singh Kahlon S, Nair S, et al. Knowledge, Attitude and Health Practice towards Cardiovascular disease in Health care providers: A Systematic Review. Curr Probl Cardiol. 2023;48(8):101206.
+    20. Heine M, Badenhorst M, van Zyl C, de Melo Ghisi GL, Babu AS, Buckley J, et al. Developing a Complex
+Understanding of Physical Activity in Cardiometabolic Disease from Low-to-Middle-Income Countries-A
+
+
+
+Qualitative Systematic Review with Meta-Synthesis. Int J Environ Res Public Health. 2021;18(22).
+    21. Hong WHS. Evidence-based nursing practice for health promotion in adults with hypertension: A literature review. Asian Nursing Research. 2010;4(4):227-45.
+    22. Howatson A, Wall CR, Turner-Benny P. The contribution of dietitians to the primary health care workforce. Journal of Primary Health Care. 2015;7(4):324-32.
+    23. Jeet G, Thakur JS, Prinja S, Singh M. Community health workers for non-communicable diseases prevention and control in developing countries: Evidence and implications. PLoS One. 2017;12(7):e0180640.
+    24. Jeffery RA, To MJ, Hayduk-Costa G, Cameron A, Taylor C, Van Zoost C, et al. Interventions to improve adherence to cardiovascular disease guidelines: a systematic review. BMC Family Practice. 2015;16:1-15.
+    25. Jones M, Thompson D, Ski C, Clark R, Gray R, Vallury K, et al. How can we better support families living with cardiovascular disease and depression? Journal of Mental Health Training, Education & Practice. 2016;11(1):61- 71.
+    26. Joyner RL, Strickland SL, Becker EA, Ginier E, Keene S, Rye K, et al. Adequacy of the Provider Workforce for Persons With Cardiopulmonary Disease. CHEST. 2020;157(5):1221-9.
+    27. Ju I, Banks E, Calabria B, Ju A, Agostino J, Korda RJ, et al. General practitioners' perspectives on the prevention of cardiovascular disease: systematic review and thematic synthesis of qualitative studies. BMJ Open. 2018;8(11):e021137.
+    28. Kabir A, Karim MN, Islam RM, Romero L, Billah B. Health system readiness for non-communicable diseases at the primary care level: a systematic review. BMJ Open. 2022;12(2):e060387.
+    29. Kang JE, Han NY, Oh JM, Jin HK, Kim HA, Son IJ, et al. Pharmacist-involved care for patients with heart failure and acute coronary syndrome: a systematic review with qualitative and quantitative meta-analysis. J Clin Pharm Ther. 2016;41(2):145-57.
+    30. Kappes M, Espinoza P, Jara V, Hall A. Nurse-led telehealth intervention effectiveness on reducing hypertension: a systematic review. BMC Nurs. 2023;22(1):19.
+    31. Katigbak C, Flaherty E, Ying-Yu C, Tam N, Cheung D, Kwan RY-C. A Systematic Review of Culturally Specific Interventions to Increase Physical Activity for Older Asian Americans. Journal of Cardiovascular Nursing. 2018;33(4):313-21.
+    32. Krishnamoorthy Y, Rajaa S, Rehman T, Thulasingam M. Patient and provider's perspective on barriers and facilitators for medication adherence among adult patients with cardiovascular diseases and diabetes mellitus in India: a qualitative evidence synthesis. BMJ Open. 2022;12(3):e055226.
+    33. Lee TW, Lee SH, Kim HH, Kang SJ. Effective intervention strategies to improve health outcomes for cardiovascular disease patients with low health literacy skills: a systematic review. Asian Nurs Res (Korean Soc Nurs Sci). 2012;6(4):128-36.
+    34. Lin SHM, Neubeck L, Gallagher R. Educational Preparation, Roles, and Competencies to Guide Career Development for Cardiac Rehabilitation Nurses. Journal of Cardiovascular Nursing. 2017;32(3):244-59.
+    35. Menezes MC, Duarte CK, Costa DVP, Lopes MS, Freitas PP, Campos SF, et al. A systematic review of effects, potentialities, and limitations of nutritional interventions aimed at managing obesity in primary and secondary health care. Nutrition. 2020;75:110784.
+    36. Murray J, Craigs CL, Hill KM, Honey S, House A. A systematic review of patient reported factors associated with uptake and completion of cardiovascular lifestyle behaviour change. BMC Cardiovasc Disord. 2012;12:120.
+    37. Muthee TB, Kimathi D, Richards GC, Etyang A, Nunan D, Williams V, et al. Factors influencing the implementation of cardiovascular risk scoring in primary care: a mixed-method systematic review. Implementation Science. 2020;15(1):1-16.
+    38. Neher M, Nygårdh A, Nilsen P, Broström A, Johansson P. Implementing internet-delivered cognitive behavioural therapy for patients with cardiovascular disease and psychological distress: a scoping review. Eur J Cardiovasc Nurs. 2019;18(5):346-57.
+    39. Nordin N, Hassali MAA, Sarriff A. Actual or potential extended services performed by Malaysian community pharmacists, perceptions and barriers towards it’s performance: A systematic review. International Journal of Pharmacy and Pharmaceutical Sciences. 2017;9(10):13-20.
+    40. Palmer MJ, Barnard S, Perel P, Free C. Mobile phone-based interventions for improving adherence to medication prescribed for the primary prevention of cardiovascular disease in adults. Cochrane Database Syst Rev. 2018;6(6):Cd012675.
+    41. Pollack T, Kadziel LA, Ross SM, Wang A, Kho AN, McHugh M, et al. Impact of Practice Facilitation in Primary
+ Care on Chronic Disease Care Processes and Outcomes: a Systematic Review. JGIM: Journal of General Internal	
+
+
+
+Medicine. 2018;33(11):1968-77.
+    42. Ramaswamy P, Mathew Joseph N, Wang J. Health Beliefs Regarding Cardiovascular Disease Risk and Risk Reduction in South Asian Immigrants: An Integrative Review. Journal of Transcultural Nursing. 2020;31(1):76-86.
+    43. Ramírez-Morera A, Tristan M, Vazquez JC. Effects of evidence-based clinical practice guidelines in cardiovascular health care quality improvements: A systematic review. F1000Res. 2019;8:1041.
+    44. Rashidi A, Kaistha P, Whitehead L, Robinson S. Factors that influence adherence to treatment plans amongst people living with cardiovascular disease: A review of published qualitative research studies. Int J Nurs Stud. 2020;110:103727.
+    45. Rice VH, Stead LF. Nursing interventions for smoking cessation. Cochrane Database Syst Rev. 2000(2):Cd001188.
+    46. Robertson LM, Douglas F, Ludbrook A, Reid G, van Teijlingen E, Robertson LM, et al. What works with men? A systematic review of health promoting interventions targeting men. BMC Health Services Research. 2008;8:141-.
+    47. Rose M, Timmons SM, Amerson R, Reimels E, Pruitt RH. Facilitators and Barriers in Cardiac Rehabilitation Participation: An Integrative Review. Journal for Nurse Practitioners. 2011;7(5):399-408.
+    48. Rosland A-M, Heisler M, Piette J. The impact of family behaviors and communication patterns on chronic illness outcomes: a systematic review. Journal of Behavioral Medicine. 2012;35(2):221-39.
+    49. Santschi V, Chiolero A, Paradis G, Colosimo AL, Burnand B. Pharmacist interventions to improve cardiovascular disease risk factors in diabetes: a systematic review and meta-analysis of randomized controlled trials. Diabetes Care. 2012;35(12):2706-17.
+    50. Schulberg SD, Ferry AV, Jin K, Marshall L, Neubeck L, Strachan FE, et al. Cardiovascular risk communication strategies in primary prevention. A systematic review with narrative synthesis. Journal of Advanced Nursing (John Wiley & Sons, Inc). 2022;78(10):3116-40.
+    51. Schulman‐Green D, Jaser SS, Park C, Whittemore R. A metasynthesis of factors affecting self-management of chronic illness. Journal of Advanced Nursing (John Wiley & Sons, Inc). 2016;72(7):1469-89.
+    52. Seneviratne S, Desloge A, Haregu T, Kwasnicka D, Kasturiratne A, Mandla A, et al. Characteristics and Outcomes of Community Health Worker Training to Improve the Prevention and Control of Cardiometabolic Diseases in Low and Middle-Income Countries: A Systematic Review. Inquiry (00469580). 2022;59:1-15.
+    53. Sharma A, Kaplan WA, Satheesh G, Poudyal IP, Gyawali P, Neupane D, et al. Health System Capacity and Access Barriers to Diagnosis and Treatment of CVD and Diabetes in Nepal. Glob Heart. 2021;16(1):38.
+    54. Shaw RL, Holland C, Pattison HM, Cooke R. Patients' perceptions and experiences of cardiovascular disease and diabetes prevention programmes: A systematic review and framework synthesis using the Theoretical Domains Framework. Social Science & Medicine. 2016;156:192-203.
+    55. Steed L, Sohanpal R, Todd A, Madurasinghe VW, Rivas C, Edwards EA, et al. Community pharmacy interventions for health promotion: effects on professional practice and health outcomes. Cochrane Database Syst Rev. 2019;12(12):Cd011207.
+    56. Stolic S, Mitchell M, Wollin J. Nurse-led telephone interventions for people with cardiac disease: A review of the research literature. European Journal of Cardiovascular Nursing. 2010;9(4):203-17.
+    57. Subedi N, Rawstorn JC, Gao L, Koorts H, Maddison R. Implementation of Telerehabilitation Interventions for the Self-Management of Cardiovascular Disease: Systematic Review. JMIR Mhealth Uhealth. 2020;8(11):e17957.
+    58. Tan EC, Stewart K, Elliott RA, George J. Pharmacist services provided in general practice clinics: a systematic review and meta-analysis. Res Social Adm Pharm. 2014;10(4):608-22.
+    59. Tapsell LC, Neale EP. The Effect of Interdisciplinary Interventions on Risk Factors for Lifestyle Disease. Health Education & Behavior. 2016;43(3):271-85.
+    60. Trejo R, Cross W, Stephenson J, Edward KL. Young adults' knowledge and attitudes towards cardiovascular disease: A systematic review and meta-analysis. J Clin Nurs. 2018;27(23):4245-56.
+    61. Unverzagt S, Oemler M, Braun K, Klement A. Strategies for guideline implementation in primary care focusing on patients with cardiovascular disease: a systematic review. Family Practice. 2014;31(3):247-66.
+    62. Usher-Smith JA, Silarova B, Schuit E, Moons KG, Griffin SJ. Impact of provision of cardiovascular disease risk estimates to healthcare professionals and patients: a systematic review. BMJ Open. 2015;5(10):e008717.
+    63. van Steenkiste B, Grol R, van der Weijden T, van Steenkiste B, Grol R, van der Weijden T. Systematic review of implementation strategies for risk tables in the prevention of cardiovascular diseases. Vascular Health & Risk Management. 2008;4(3):535-45.
+ 64. Vanzella LM, Pakosh M, Oh P, Ghisi G. Health-related information needs and preferences for information of  
+
+
+individuals with cardiovascular disease from underserved populations: A systematic review. Patient Educ Couns. 2022;105(12):3398-409.
+    65. Wasilewski M, Vijayakumar A, Saporta A, Hitzig SL, Szigeti Z, Sathakaran S, et al. Barriers and Facilitators to Delivering Inpatient Cardiac Rehabilitation: A Scoping Review. Journal of Multidisciplinary Healthcare. 2023;16:2361-76.
+    66. Yao M, Zhou XY, Xu ZJ, Lehman R, Haroon S, Jackson D, et al. The impact of training healthcare professionals' communication skills on the clinical care of diabetes and hypertension: a systematic review and meta-analysis. BMC Fam Pract. 2021;22(1):152.
+    67. Yeoh EK, Wong MCS, Wong ELY, Yam C, Poon CM, Chung RY, et al. Benefits and limitations of implementing
+Chronic Care Model (CCM) in primary care programs: A systematic review. Int J Cardiol. 2018;258:279-88.
+Não aborda o contexto de interesse
+    68. Alonso-Perales MadM, Lasheras B, Beitia G, Beltrán I, Marcos B, Núñez-Córdoba JM. Barriers to promote cardiovascular health in community pharmacies: a systematic review. Health Promotion International. 2017;32(3):535-48.
+    69. Andersen EB, Kristiansen M, Bernt Jørgensen SM. Barriers and facilitators to return to work following cardiovascular disease: a systematic review and meta-synthesis of qualitative research. BMJ Open. 2023;13(1):e069091.
+    70. Han E, Quek RYC, Tan SM, Singh SR, Shiraz F, Gea-Sánchez M, et al. The role of community-based nursing
+interventions in improving outcomes for individuals with cardiovascular disease: A systematic review. Int J Nurs Stud. 2019;100:103415.
+Apresentação em congresso
+    71. Al-Arkee S, Al-Ani O. Community pharmacist-led interventions to improve medication adherence in patients with cardiovascular disease: a systematic review of randomised controlled trials. International Journal of Pharmacy Practice. 2023;31(3):269-75.
+    72. Alsbury-Nealy K, Scodras S, Colquhoun H, Jaglal SB, Munce S, Salbach NM. How can healthcare professionals develop partnerships with community programs to facilitate community transitions for people with stroke? Theoretical models of health care community linkages: A scoping review. Neurorehabilitation and Neural Repair.
+2023;37(5):23S.
+Protocolo
+73. Légaré F, Ratté S, Stacey D, Kryworuchko J, Gravel K, Graham ID, et al. Interventions for improving the adoption of shared decision making by healthcare professionals. Cochrane Database Syst Rev. 2010(5):Cd006732.
+Fonte: Elaboração própria.
+
+Apêndice 3. Características gerais dos estudos incluídos.
+Acrônimos: CMD - doenças cardiometabólicas; DAs - auxílios à decisão digital; DCNT - Doenças Crônicas Não Transmissíveis; DCV - Doenças Cardiovasculares; DMT2 - Diabetes Mellitus Tipo 2; ECR - ensaios clínicos randomizados; EUA - Estados Unidos da América n - número; PA - pressão arterial.
+Autor, ano	Objetivo	Países	Conclusões dos autores	Conflito de interesses e financiamento
+Afiani et al.; 20237	Esta pesquisa teve como objetivo investigar sistematicamente o preditor de medicação em idosos com
+hipertensão.	Coreia (n=1), Malásia (n=1), Singapura (n=1), áreas rurais (n=1), afro-americanos (n=1), restante não informado	As funções da memória são elementos importantes na adesão à medicação entre idosos. Profissionais de saúde devem considerar intervenções especiais para a população idosa hipertensa com diminuição da função cognitiva para que a adesão à medicação possa ser realizada. As intervenções realizadas podem ser focadas no fortalecimento da memória, que inclui a lembrança, recompensa e reforço.	Não informado.
+AlAufi et al.;20228	Fornecer atualizações sobre as motivações e desafios da aplicação da dieta mediterrânea em Doenças Cardiovasculares (CVD) e Diabetes Mellitus Tipo 2 (DMT2).	Não informado	Em conclusão, esta revisão fornece um resumo abrangente dos estudos publicados em relação ao MedDiet DCV, DMT2 e seus fatores de risco de prevenção, tratamento e gerenciamento de resultados. Esta é a primeira revisão a adicionar e reunir novas informações significativas de uma ampla gama de estudos diferentes, demonstrando as motivações e desafios na aplicação do MedDiet. Em comparação com as análises anteriormente disponíveis, esta revisão reforça e identifica com mais precisão o MedDiet como objeto de pesquisa ativa e diversificada, apesar dos desafios existentes devido às suas várias características benéficas no gerenciamento dos fatores de risco para prevenir e gerenciar DCV, DMT2. As evidências disponíveis apoiam os resultados relacionados à saúde associados à adesão ao MedDiet. No entanto, há robustez medíocre na MedDiet, do ponto de vista da pesquisa e da política. Apesar de vários desafios à implementação do MedDiet em países não mediterrânicos e da promoção da alta adesão ao MedDiet nos países mediterrânicos, tais
+barreiras não devem sobrepor os efeitos promissores à saúde do padrão	Declaram não possuir.
+
+Financiamento: Esta pesquisa não recebeu financiamento externo.
+
+Autor, ano	Objetivo	Países	Conclusões dos autores	Conflito de interesses e financiamento
+			dietético secular. Investigações adicionais usando estudos observacionais intervencionistas de longo prazo, bem como bem projetados, são necessárias para informar as recomendações nutricionais em um contexto
+mais amplo.	
+Chen et al.; 20229	Descrever as experiências dos profissionais de saúde de implementar, usar, avaliar e sustentar intervenções de suporte à decisão clínica (CDS) baseadas em Relatório de saúde eletrônico para o tratamento de doenças crônicas. As barreiras e facilitadores dos provedores serão descritos a partir das perspectivas de clínicos individuais e serviços de saúde.	Estados Unidos da América (EUA) (n = 13), Austrália (n = 7) e Índia (n = 3)	As descobertas qualitativas de barreiras e facilitadores para a absorção de intervenções de suporte à decisão clínica fornecem informações valiosas sobre o motivo de alguns projetos serem implementados com sucesso, enquanto outros não conseguem alcançar a absorção. Nossa revisão sistemática resume as experiências do provedor na implementação e uso de sistemas de intervenções de suporte à decisão clínica de doenças crônicas em uma ampla gama de estudos. Nossas descobertas identificaram contexto clínico, usuário, contexto externo e fatores tecnológicos que afetam a captação. As descobertas meta-agregadas e o resumo das recomendações fornecem uma base de evidências para projetar, implementar e sustentar futuros sistemas de intervenções de suporte à decisão clínica.	Declaram não possuir.
+
+Financiamento: Esta pesquisa foi apoiada pelo RACGP, pela bolsa de estudos do Programa de Treinamento de Pesquisa do Governo Australiano (RTP) e pela bolsa de estudos da Menzies School of Health Research.
+
+Autor, ano	Objetivo	Países	Conclusões dos autores	Conflito de interesses e financiamento
+Chen et al.; 201928	Avaliar sistematicamente a eficácia do teletreinamento liderado por enfermeiros sobre os fatores de risco cardiovasculares modificáveis (hemoglobina glicada, pressão arterial e níveis lipídicos) entre indivíduos com diabetes mellitus tipo 2.	EUA (n=4), Coreia do Sul (n=2), Austrália (n=2), Irã (n=1), Bélgica (n=1), Alemanha (n=1) e Finlândia (n=1)	Esta revisão avaliou a eficácia do telecoaching liderado por enfermeiros no gerenciamento dos fatores de risco cardiovasculares e de estilo de vida em indivíduos DMT2 por meio de 12 estudos elegíveis envolvendo um total de 3.750 participantes. As meta-análises dos oito estudos incluídos demonstraram que o telecoaching liderado por enfermeiros exerceu um efeito favorável na mitigação dos fatores de risco cardiovascular, medidos por meio de resultados como hemoglobina glicada, pressão arterial sistólica e atividade física. Para outros fatores de risco, como displasia broncopulmonar, lipoproteína de alta densidade e Lipoproteínas de baixa densidade, adesão à dieta e conformidade com a medicação, o teletreinamento liderado por enfermeiros parecia não ter sido eficaz, justificando assim mais estudos para elucidar ainda mais esses resultados. Estudos futuros também devem considerar o uso de ensaios de não inferioridade com várias configurações e tamanhos de amostra maiores como uma alternativa aos ensaios típicos de superioridade, onde o objetivo é rejeitar a hipótese nula de que não existe diferença entre o
+grupo de tratamento e o grupo controle.	Não informado
+Davy et al.; 201510	Examinar sistematicamente a literatura científica para entender os facilitadores e as barreiras à implementação de modelos de cuidados crônicos dentro de um ambiente de saúde
+primário da	A maioria dos estudos foi realizada nas Américas, incluindo Estados Unidos da América, Canadá e México (n=24). Nove estudos também foram realizados na Europa, incluindo Reino Unido,
+Espanha, Bélgica,	A implementação bem-sucedida de intervenções complexas, como um Modelo de Cuidados Crônicos, pode depender não apenas do fornecimento de recursos apropriados e do desenvolvimento de sistemas e processos eficazes, mas também de uma ampla gama de diferentes partes interessadas que interpretarão e influenciarão esse processo de implementação. Esta revisão sistemática da literatura enfatizou novamente a necessidade de considerar os fatores humanos, incluindo o papel dos pacientes e dos profissionais de saúde, que podem facilitar ou impedir a implementação bem-sucedida. Além de garantir recursos apropriados, esta revisão destaca a importância de garantir que a intervenção seja aceitável tanto para pacientes quanto para profissionais
+de saúde. Também enfatiza a importância de preparar os profissionais de	Declaram não possuir.
+
+Financiamento: Esta pesquisa e os pesquisadores que trabalham neste estudo foram apoiados por um Centro de Subsídio de Excelência em Pesquisa do Australian Primary Health Care Research Institute. A AB é apoiada por uma bolsa de pós-doutorado da National
+Heart Foundation (#PR 08 M
+
+Autor, ano	Objetivo	Países	Conclusões dos autores	Conflito de interesses e financiamento
+	perspectiva dos profissionais de saúde e pacientes.	Itália, Dinamarca, Holanda e Alemanha. Quatro estudos foram realizados na Austrália e Nova Zelândia e um na África.	saúde para o processo de mudança e garantir que os pacientes sejam apoiados durante toda a implementação de modelos de Cuidados Crônicos.	4207) e uma bolsa de pesquisa médica sênior da Viertel Charitable Foundation. Esta pesquisa também foi apoiada pelo Subsídio No 1061242 do Conselho Nacional de Saúde e Pesquisa Médica (NHMRC). O material publicado é de responsabilidade exclusiva dos autores individuais e não
+reflete as opiniões do NHMRC.
+de Waard et al.; 201811	Identificar características e barreiras e facilitadores das pessoas para a participação em exames de saúde para doenças cardiometabólicas (CMD) em um ambiente de saúde primário.	Vinte e seis estudos (67%) foram realizados no Reino Unido (Reino Unido), dos quais 10 relataram barreiras e facilitadores sobre a verificação de saúde do Serviço Nacional de Saúde, que é uma verificação de saúde para pessoas com idades entre 40 e 74 anos no Reino
+Unido. Os outros	As barreiras e facilitadores para que as pessoas participem de exames de saúde para CMD são muito heterogêneos. Portanto, não é possível desenvolver uma abordagem de "tamanho único" para verificações de saúde CMD. Características pessoais, razões práticas e atitudes das pessoas em relação à prevenção e verificações de saúde devem ser levadas em conta para melhorar a aceitação de verificações de saúde para CMD na atenção primária. Para o desenvolvimento e implementação de verificações de saúde CMD, sugerimos uma abordagem multifatorial e que considere o contexto nacional e local. Para aumentar a aceitação de exames de saúde, atenção especial deve ser dada a grupos de pessoas que podem ser mais difíceis de alcançar, como aqueles com baixo SES, fumantes e pessoas com uma atitude negativa em relação a exames de saúde e prevenção. Aumentar a aceitação de exames de saúde pode contribuir para identificar as pessoas que estão em risco de CMD para poder iniciar intervenções para diminuir seu risco.	Declaram não possuir.
+
+Financiamento: O(s) autor(es) divulgou o recebimento do seguinte apoio financeiro para a pesquisa, autoria e/ou publicação deste artigo: Esta revisão faz parte do projeto/ação conjunta '663309/SPIM EU' que recebeu financiamento do Programa de Saúde da União Europeia (2014–2020). O conteúdo desta revisão representa apenas os pontos de vista dos
+autores e é de sua exclusiva
+
+Autor, ano	Objetivo	Países	Conclusões dos autores	Conflito de interesses e financiamento
+		estudos foram da Holanda (n=5), Dinamarca (n=3), Suécia (n=3), China (n=1) e Alemanha (n=1).		responsabilidade; não pode ser considerado como refletindo os pontos de vista da Comissão Europeia e/ou da Agência Executiva de Consumidores, Saúde, Agricultura e Alimentação ou de qualquer outro órgão da União Europeia. A Comissão Europeia e a Agência não aceitam qualquer responsabilidade pelo uso que possa ser feito das informações que ela
+contém.
+George, McNamara, Stewart; 201112	Resumir evidências geradas em estudos de pesquisa sobre o envolvimento do farmacêutico comunitário na prevenção e gerenciamento de
+DCV.	Alguns resultados não informam; EUA (n=1); Austrália (n=8).	Há evidências claras crescentes do potencial positivo de colaborações entre clínico geral e farmacêuticos comunitários no gerenciamento e prevenção de DCV. As evidências envolvem melhoria nos marcadores clínicos, melhorias na qualidade de vida em algumas condições, satisfação para clínicos geral, farmacêuticos e consumidores - e tudo a um custo economicamente viável. Os desafios que se avizinham no clima da reforma da saúde primária incluem a promoção da abordagem da equipe e o desenvolvimento de um modelo de financiamento sustentável.	Os autores foram investigadores principais em alguns dos estudos incluídos neste manuscrito.
+Heller et al.; 201913	Identificar barreiras do sistema de saúde e facilitadores de cuidados liderados	Guatemala, México e Bangladesh (n=1); Irã (n=1); China (n=1); Camarões	Como as DCNTs são agora a principal causa de morte prematura e incapacidade em regiões de baixa renda, onde os médicos permanecem escassos, procuramos entender como os programas liderados pelos profissionais de saúde não médicos para o controle dessas doenças são
+auxiliados ou prejudicados pelos sistemas de saúde em que habitam. Este	Drs. Heller e Kishore relataram ter recebido subsídios da Teva Pharmaceuticals durante a condução do estudo. O Dr.
+
+Autor, ano	Objetivo	Países	Conclusões dos autores	Conflito de interesses e financiamento
+	por profissionais de saúde não médicos para Doenças Crônicas Não Transmissíveis (DCNT) em países de baixa e média renda.	(n=1)	estudo encontrou um conjunto pequeno, mas crescente, de estudos descrevendo essas barreiras e facilitadores do sistema de saúde, geralmente incidentalmente, e não pelo design dos estudos, mas com mensagens frequentes e consistentes sobre cada um dos blocos de construção do sistema de saúde da Organização Mundial da Saúde. Além do treinamento, retenção, supervisão e implantação desses trabalhadores, o fornecimento de sistemas de suporte fortes (cadeias de suprimentos para medicamentos e equipamentos) e outras infraestruturas (rastreamento telefônico de pacientes ou registros eletrônicos de pacientes), bem como financiamento adequado do programa, também pode facilitar o sucesso. Além disso, pesquisas adicionais de implementação - nas quais esses elementos são expressamente fornecidos, entregues e avaliados para entrega e seu impacto nos cuidados - iluminarão melhor como esses elementos estão associados à prestação de cuidados. Com esses dados, o aumento efetivo dos programas para profissionais de saúde não médicos para a principal causa de morbidade e mortalidade em países de baixa e média renda
+pode ser viável.	Kishore também relatou servir como consultor para Resolver para Salvar Vidas. Nenhum outro conflito foi relatado.
+Leslie, McCowan, Pell; 201914	Revisar as evidências publicadas existentes dos fatores e resultados associados à adesão aos medicamentos para DCV.	EUA, Europa e outros países desenvolvidos, com apenas duas revisões sistemáticas centradas em países de baixa ou média renda (LMICS).	Há uma série de fatores de risco modificáveis e não modificáveis que têm sido associados à não adesão a medicamentos cardiovasculares, e estes devem ser considerados ao desenvolver intervenções para melhorar o manejo da doença. Os estudos até o momento são de qualidade variável e heterogeneidade considerável. Embora algumas revisões sistemáticas considerem vários fatores, muitos estudos primários analisam os fatores de risco isoladamente, não contabilizando a interação entre eles, e por causa da heterogeneidade não houve oportunidade de estudar isso quantitativamente. Isso dá espaço para realizar um estudo primário analisando vários fatores de adesão de todos esses grupos. Vitalmente
+importante para este campo de pesquisa é uma terminologia e	Declaram não possuir
+
+Financiamento: Trabalho apoiado pelo Conselho de Pesquisa Médica (MRC) [MR/N013166/1 para K.H.L.].
+
+Autor, ano	Objetivo	Países	Conclusões dos autores	Conflito de interesses e financiamento
+			metodologia acordadas, para permitir que sejam feitas comparações entre diferentes populações de estudo. Um estudo definiu uma taxonomia recomendada para uso e, se usada consistentemente pelos
+pesquisadores, aumentará muito o valor da pesquisa de adesão.	
+Martínez-González et al.; 201515	Revisamos sistematicamente as evidências sobre a eficácia da mudança de tarefas médico- enfermeiro na atenção primária em relação às medidas do curso da doença e aos papéis dos enfermeiros.	Reino Unido (n=6), Holanda (n = 3), África do Sul (n =2) e Rússia (n=1)	Enfermeiros treinados, pareciam alcançar resultados de efeitos pelo menos semelhantes aos dos médicos para o gerenciamento da progressão da doença em uma ampla gama de populações de pacientes. Protocolos estruturados e ferramentas validadas podem ser alguns dos principais impulsionadores da melhoria dos resultados. A implementação de abordagens de cuidados não farmacológicos e centradas no paciente também pode levar a intervenções bem-sucedidas de cuidados liderados por enfermeiros. Uma definição clara de funções, qualificações, habilidades e experiência, essencial para uma transferência eficaz e segura de tarefas e funções, é relatada apenas em padrões baixos.
+Portanto, não está claro até que ponto os enfermeiros devem estar envolvidos na mudança de tarefas dos médicos. A evidência também é limitada pela qualidade metodológica mista dos ensaios, embora alguns dos ensaios tenham populações maiores de pacientes. Mais estudos de boa qualidade usando ferramentas validadas e amostras maiores de muitos países devem melhorar os padrões de relatórios e a consistência
+das funções, qualificações e intervenções dos enfermeiros.	Os autores declaram não ter interesses conflitantes.
+
+Financiamento: Este estudo foi financiado pelo Fundo de Pesquisa de Serviços de Saúde (Fundação Bangerter) da Academia Suíça de Ciências Médicas (SAMS) e pela Associação Suíça de Médicos de Família (Hausärzte Schweiz). O financiador não teve qualquer papel no conteúdo ou preparação do manuscrito ou na decisão de publicação.
+Mohebbi, Sabouri, Tol; 202116	Avaliar pesquisas publicadas sobre a aplicação de educação em saúde e promoção de
+teorias/modelos	Cerca de 80% (n=28) dos estudos foram realizados no Irã.	Esta revisão indicou que as teorias/modelos de educação e promoção de saúde intrapessoal e interpessoal tiveram um impacto positivo geral em vários resultados de saúde entre pacientes com DCV. Poucos estudos teóricos de base foram conduzidos para mudar aspectos clínicos com resultados educacionais e práticos entre pacientes com DCV. Causa do uso
+de poucas teorias/modelos como o modelo transteórico e a Teoria Social	Não há conflitos de interesse.
+
+Financiamento: Sem apoio financeiro.
+
+Autor, ano	Objetivo	Países	Conclusões dos autores	Conflito de interesses e financiamento
+	intrapessoais e interpessoais de intervenções em pacientes com DCV.		Cognitiva; acompanhamento curto, mesmo para resultados clínicos, usando materiais educacionais tradicionais e uso limitado de instrumentos padrão, especialmente para avaliar resultados práticos, deve ser considerado pelos projetistas de pesquisa e definido como prioridade para adaptar futuros estudos intervencionistas. Neste estudo, a maioria das pesquisas se concentrou em resultados práticos que podem ser utilizados como força de estudo. Mas, com base na natureza das DCV como uma doença crônica importante, deve ser considerado prestar mais atenção a todos os tipos de resultados de DCV, como educacional e clínico, simultaneamente, para alcançar uma vida com menos complicações e estabelecer resultados educacionais e clínicos tangíveis das DCV. Estudos adicionais com design e implementação de alta qualidade baseados em várias teorias/modelos de educação e promoção da saúde são sugeridos para direcionar os resultados de saúde entre
+pacientes com DCV.	
+Ogedegbe et al.; 201417	Nesta revisão sistemática, avaliamos as evidências de ensaios clínicos randomizados (ECR) publicados para o uso de estratégias de mudança de tarefas para redução do risco de
+DCV em países de	Nigéria (n=1); Nigéria e China (n=1); Irã (n=1)	Em conclusão e com base em nossas descobertas, as estratégias de mudança de tarefas são aplicáveis e viáveis em muitos países de renda baixa e média que estão sobrecarregados com doenças infecciosas e crônicas, compostos por recursos limitados de material e pessoal de saúde. Com treinamento adequado e feedback contínuo, os profissionais de saúde de nível inferior podem ser fundamentais no gerenciamento de DCV de forma eficiente. Estudos futuros devem abordar sua implementação como parte dos sistemas de saúde existentes, bem como sua relação custo-eficácia em países de renda baixa e média .	Nenhum
+
+Financiamento: Este projeto foi apoiado pelas seguintes bolsas: uma U01 (U01HL114198), K24
+do Dr. Ogedegbe (K24 HL111315) e uma bolsa de treinamento Fogarty (D43TW009140) do Instituto Nacional de Saúde (NIH/NHLBI).
+
+Autor, ano	Objetivo	Países	Conclusões dos autores	Conflito de interesses e financiamento
+	baixa e média
+renda.			
+Ogungbe et al.; 202218	Neste estudo, pretendemos: 1) resumir as evidências sobre a eficácia dos cuidados em equipe no controle da pressão arterial (PA), em
+comparação com os cuidados habituais, atualizando uma revisão sistemática anterior e 2) avaliar as diferenças no efeito dos cuidados em equipe na redução da PA de acordo com a complexidade das tarefas desempenhadas pelos profissionais de saúde e de
+acordo com a	Onze (26%) estudos foram realizados na região do Sudeste Asiático, 8 (19%) na região do Pacífico Ocidental, 9 (21%)
+na África, 5 (12%) nos Estados Unidos, 1 (2%) na Europa, 4 (9%) na região do Mediterrâneo Oriental e 5 (12%) em vários países e regiões.	O atendimento baseado em equipe tem sucesso além dos cuidados usuais na redução da PA em pacientes que vivem com hipertensão. Esse efeito parece ser um pouco mais forte quando o membro da equipe adicionado é mais altamente treinado. No entanto, esse pessoal de saúde bem treinado geralmente é caro. Estudos de eficácia e avaliações econômicas do atendimento em equipe são necessários para justificar o investimento no treinamento do profissional de saúde e as alocações salariais necessárias para apoiar o atendimento em equipe em uma escala mais ampla.	Os autores declaram não haver conflito de interesses.
+
+Financiamento: Resolve To Save Lives (RTSL) Vital Strategies, Danielle Cazabon, Andrew E. Moran, Yvonne Commodore-Mensah recebem apoio salarial da Resolve to Save Lives, uma iniciativa da Vital Strategies. Resolve to Save Lives é apoiado conjuntamente por doações da Bloomberg Philanthropies, da Fundação Bill & Melinda Gates e da Gates Philanthropy Partners, que é financiada com o apoio da Fundação Chan Zuckerberg. Panniyammakal Jeemon é apoiado por uma bolsa sênior da DBT-Wellcome Trust India Alliance (IA) (IA/CPHS/20/1/505229).
+
+Autor, ano	Objetivo	Países	Conclusões dos autores	Conflito de interesses e financiamento
+	formação e categoria profissional do novo membro da equipe
+adicionado.			
+Peters et al.; 202320	Revisar sistematicamente as barreiras e facilitadores para a implementação de auxílios à decisão digital (DA) digitais para doenças cardiovasculares.	Não informado	Para aumentar o uso de DAs digitais para doenças cardiovasculares, é necessário um esforço especial para encontrar o momento ideal da DA no processo de atendimento e integrar a DA no registro médico eletrônico e nas estruturas de Tecnologia da Informação e Comunicação. Além disso, o treinamento de médicos no uso de tomada de decisão compartilhada e DAs pode superar sua falta de conhecimento e a variação no uso de DA. O baixo número de estudos disponíveis mostra as evidências limitadas sobre este tópico, enfatizando que mais pesquisas, principalmente sobre as perspectivas dos pacientes, são necessárias. No entanto, levantamos a hipótese de que os DAs digitais se tornarão uma parte mais comum dos cuidados cardiovasculares do que encontramos atualmente nesta revisão sistemática, devido à digitalização dos cuidados de saúde e ao crescente
+interesse e experiência em tomada de decisão compartilhada.	Conflito de interesses não informado.
+
+Financiamento: A pesquisa e os autores não receberam nenhum financiamento.
+Ru, Hong, Hegney; 201125	Determinar as melhores evidências disponíveis relacionadas às experiências de autogestão entre mulheres idosas que vivem na
+comunidade com condições crônicas,	EUA (n=2), Suécia (n=1), não informado (n=1)	Para essas mulheres, a autogestão envolve recuperar e manter seu senso de controle sobre seus corpos, que está constantemente ameaçado por suas doenças crônicas. Além disso, eles redefinem seu significado de saúde no contexto da doença para manter seu bem-estar emocional apesar de sua doença. Os profissionais de saúde podem ajudar suas pacientes mais velhas a manter seu senso de controle por meio do gerenciamento eficaz dos sintomas e estratégias práticas para gerenciar a vida diária. Como o apoio social é crucial para a autogestão por mulheres
+mais velhas, os profissionais de saúde devem incluir, quando relevante, membros da família e outros entes queridos na educação do paciente. Os	Declararam não possuir.
+
+Autor, ano	Objetivo	Países	Conclusões dos autores	Conflito de interesses e financiamento
+	especificamente doenças não transmissíveis que incluem doenças cardiovasculares, doenças respiratórias crônicas, diabetes
+mellitus e artrite.		profissionais de saúde também devem se esforçar para construir e manter um relacionamento positivo com seus pacientes por meio de uma comunicação eficaz, pois a relação provedor-paciente é uma forte influência na experiência de uma mulher mais velha em autogestão. Mais pesquisas são justificadas em mulheres mais velhas de outras origens culturais, já que a maioria dos estudos revisados se concentrou em caucasianos nos Estados Unidos.	
+Sabater-Hernández et al.; 201621	Os objetivos desta revisão sistemática foram identificar serviços de farmácia comunitária baseados em evidências concebidos para prevenir DCV e fornecer a informação fundamental necessária para avaliar a sua potencial adaptação a outros ambientes de farmácia
+comunitária.	Não informado	Esta revisão sistemática fornece aos planejadores de serviços de farmácia e formuladores de políticas uma lista abrangente de 14 serviços de farmácia comunitária baseados em evidências que podem ser adaptados a outras configurações de farmácia comunitária, a fim de reduzir a carga de DCV. As informações fornecidas nesta revisão se concentram nas necessidades de saúde e nas populações de risco visadas pelos serviços, bem como nas atividades realizadas pelos prestadores de serviços. Esse foco permite uma avaliação inicial para avaliar se o serviço de farmácia comunitária baseado em evidências tem o potencial de ser adaptado a outras configurações de farmácia comunitária. No entanto, são necessárias mais informações dos estudos revisados para tomar decisões finais sobre a adaptação e implementação do serviço. A descrição dos serviços de farmácia deve ser melhorada para facilitar a tradução de serviços baseados em evidências para a prática. Finalmente, incentivamos fortemente os pesquisadores de prática de farmácia a projetar e implementar ECRs de alta qualidade para inclusão em futuras revisões de serviços de farmácia comunitária baseados em evidências projetados para
+a prevenção de DCV.	O financiamento para esta revisão foi fornecido pela bolsa de pós-doutorado do Chanceler da Universidade de Tecnologia de Sydney concedida a Sabater- Hernández. Nenhum outro potencial conflito de interesses foi declarado.
+Santschi et al.;	determinar o	América do Norte	Em conclusão, nossos resultados apoiam o papel benéfico do	Divulgação Financeira:
+
+Autor, ano	Objetivo	Países	Conclusões dos autores	Conflito de interesses e financiamento
+201122	impacto da assistência farmacêutica no manejo dos principais fatores de risco de DCV entre pacientes ambulatoriais.	(n=20), América do Sul (n=3), Ásia (n=3), Europa (n=2) e Austrália (n=2)	atendimento farmacêutico no gerenciamento dos fatores de risco de DCV entre pacientes ambulatoriais. Dadas as dificuldades de acesso aos médicos de cuidados primários, a integração do farmacêutico no atendimento de pacientes ambulatoriais deve ser considerada como uma solução valiosa para melhorar o gerenciamento dos fatores de risco de DCV. São necessários mais estudos para identificar qual tipo de intervenções farmacêuticas são mais adequadas para ajudar a gerenciar os fatores de risco de DCV e como esse tipo de atendimento farmacêutico poderia ser aprimorado em vários sistemas de saúde.	Nenhuma relatada.
+
+Financiamento/Apoio: Este estudo foi apoiado em parte pela Cátedra de Pesquisa Aplicada de Saúde Pública dos Institutos Canadenses de Pesquisa em Saúde (CIHR) em Prevenção de Doenças
+Crônicas para Paradis.
+Schneider et al.; 201823	Resumir as evidências sobre a relação entre as características da terapia medicamentosa (farmacoterapia) e a não adesão à medicação na população de DCV.	EUA (n=9),
+Cisjordânia (n=1), Etiópia (n=1), Emirado de Ajman (n=1), Brasil (n=5), Áustria (n=2), Hungria (n=1), Eslováquia (n=1), Tunísia (n=1), Canadá (n=1), Congo (n=1), Finlândia (n=1), Hong Kong (n=1), França (n=1), China (n=2), Índia (n=1),
+Grécia (n=1)	O impacto das características da farmacoterapia na não adesão foi avaliado de acordo com a acessibilidade, regime de dosagem e classe de medicação. Várias características da farmacoterapia foram examinadas e resultaram em dois fatores modificáveis: (i) o acesso ao seguro ou outro programa que auxilia nos custos com medicamentos diminuiu o risco de não adesão em pacientes com DCV em 36% e (ii) Pacientes com DCV que tomam seus medicamentos duas ou mais vezes ao dia foram associados a um aumento de 38% no risco de não adesão. Portanto, essas características da farmacoterapia devem ser consideradas para melhorar a adesão entre pacientes com DCV. A compreensão dos mecanismos subjacentes aos comportamentos de adesão pode melhorar as abordagens específicas do paciente para melhorar a adesão e nosso estudo faz uma contribuição importante para esta pesquisa, uma área onde mais estudos são necessários.	Declaram não possuir
+
+Financiamento: APHS e MAG foram bolsistas da Agência Federal de Apoio e Avaliação do Ensino de Pós-Graduação- CAPES.
+
+Autor, ano	Objetivo	Países	Conclusões dos autores	Conflito de interesses e financiamento
+Singh, LeBlanc, King- Shier; 202124	Identificar quais intervenções foram desenvolvidas e testadas para melhorar a adesão à medicação em pacientes etnicamente diversos com doenças relacionadas ao
+cardiovasculares.	EUA (n=15), Índia (n=5), China (n=5), Irã (n=4), Países Baixos (n=1), Coreia do Sul (n=1), Paquistão (n=1), e Chile (n=1)	Identificamos estratégias de intervenção que têm sido utilizadas para melhorar a adesão medicamentosa em pacientes étnicos com doenças cardiovasculares. Embora seja necessário trabalhar mais para obter uma compreensão aprofundada das intervenções que podem ser efetivamente usadas com vários grupos étnicos para melhorar a adesão à medicação, esperamos que os resultados desta revisão sistemática ajudem os profissionais de saúde e pesquisadores a identificar estratégias potenciais, que podem ser rigorosamente estudadas para uso em larga escala.	Declaram não possuir.
+Wändell et al.; 201826	Realizar uma revisão sistemática da literatura relevante para identificar barreiras e facilitadores de programas eficazes de prevenção seletiva de doenças cardiometabólicas (CMD) em um ambiente de cuidados primários
+de saúde.	Reino Unido (n=9), Canadá (n=4), Holanda (n=4), Austrália (n=3), Dinamarca (n=2), Alemanha (n=2), Argentina (n=1), França (n=1), Nova Zelândia (n=1), Singapura (n=1)	O contexto estrutural, organizacional, profissional, social e barreiras atitudinais e facilitadores dos esforços seletivos de prevenção de CMD na atenção primária foram identificados em estudos qualitativos e quantitativos. As barreiras mais frequentemente relatadas foram a falta de tempo, reembolso e habilidades adequadas de aconselhamento. Os facilitadores mais frequentemente relatados foram atitudes positivas de importância para a prevenção, incluindo um alto rendimento de verificação de saúde. Descobrimos que muitos fatores eram semelhantes em várias configurações e países, mas alguns estudos foram realizados em países com diferentes sistemas de atenção primária à saúde, complicando a comparação. Em última análise, além de estudar nossa revisão das evidências relevantes, sugerimos que, antes de iniciar estudos de prevenção seletiva, os pesquisadores devem estudar fatores locais, a fim
+de adaptar melhor a intervenção ao cenário pretendido.	Declaram não possuir
+
+Financiamento: Esta revisão faz parte do projeto/ação conjunta '663309/SPIM EU' que recebeu financiamento do Programa de Saúde da União Europeia (2014–2020).
+
+Autor, ano	Objetivo	Países	Conclusões dos autores	Conflito de interesses e financiamento
+Whitelaw et al.; 202127	Fornecer um resumo abrangente das barreiras e facilitadores da absorção de tecnologia digital de saúde nos cuidados cardiovasculares, entre pacientes, clínicos e
+pesquisadores.	Austrália (n=1), Canadá (n=3), China (n=4), Finlândia (n=1), Índia (n=1), Irlanda (n=1), Holanda (n=1), Nova Zelândia (n=1), Cingapura (n=1), Suécia (n=2), Reino Unido (n=4), EUA
+(n= 9).	A tecnologia de saúde digital tem o potencial de revolucionar a prestação de cuidados de saúde DCV. Nossos resultados demonstram que há uma infinidade de barreiras e facilitadores para a absorção de DHT nos cuidados cardiovasculares. Os resultados deste estudo podem ser usados para informar e orientar médicos e partes interessadas que desejam desenvolver e implementar tecnologia de saúde digital que atenda às necessidades de médicos e pacientes na era da doença por coronavírus 2019 e além.	Declaram não possuir
+
+Financiamento: H.G.C.V. recebe financiamento de pesquisa dos Institutos Canadenses de Pesquisa em Saúde e apoio salarial de pesquisa do Departamento de Medicina da Universidade McMaster e Prêmio Women As
+One Escalator.
+Fonte: Elaboração própria.

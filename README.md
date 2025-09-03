@@ -53,7 +53,7 @@ Adicionamos três textos em formato `.txt` na pasta [`docs/`](./docs/):
 
 ## 🖼️ Parte 3 – Dados Visuais (Visão Computacional)
 
-Foi reunido um conjunto de **100 imagens médicas de raio-X de tórax (Chest X-ray Dataset for Tuberculosis Segmentation)**.  
+Foi reunido um conjunto de **700 imagens médicas de raio-X de tórax (Chest X-ray Dataset for Tuberculosis Segmentation)**.  
 
 📂 [Acesse as imagens aqui](https://drive.google.com/drive/folders/1bPiEVe0IoOlX0OOFPATql8eWJs-EgnU8?usp=sharing)
 
